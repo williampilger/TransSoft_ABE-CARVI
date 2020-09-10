@@ -1,0 +1,5 @@
+Este software está sendo desenvolvido com o intuito de gerenciar os cadastros dos alunos associados à ABE-CARVI
+
+
+FUNCIONALIDADES:
+	OK - 

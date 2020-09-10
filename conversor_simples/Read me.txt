@@ -1,0 +1,9 @@
+Este programa serve para converter os dados dos alunos, exportados do sistema da Viaggiotur, em algo utilizável no excel.
+
+Os dados da forma que são dispostos no sistema da viaggitur ficam agrupados por:
+	dia
+	turno
+	instituição
+	aluno
+	
+e para uma utilização mais fácil, este programa reestrutura as informações dispondo em listas individuais por itinerário, agrupando os dados de viagem apenas por nome de aluno.
