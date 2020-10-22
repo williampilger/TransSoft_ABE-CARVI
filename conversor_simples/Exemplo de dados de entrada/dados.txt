@@ -1,0 +1,2873 @@
+Segunda-feira
+Manhã
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Ana Carolina Kanoffre Camargo	julianakanoffre@gmail.com	9113274601	X	X
+Daniela Klock Romio	klock_daniela@yahoo.com.br	6131780873	X	X
+Elen Patzlaff Da Silva	elensilva086@gmail.com	4121684064	X	X
+Isabel Doring Baranzeli	baranzeli_isabel@outlook.com	5129523832	X	X
+Luana Cislaghi Chaves	cislaghiluana52@gmail.com	4123148671	X	X
+Maria Elizabeth Visintainer	maria.e.visintainer001@gmail.com	7134742183	X	X
+Maria Elizabeth Visintainer	maria.e.visintainer001@gmail.com	7134742183	X	X
+Nicia R. Accorsi Gonçalves	niciaroberta@gmail.com	5123266388	X	X
+Roberta Mello Benini	beninijb@gmail.com	1125269876	X	X
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 9
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Suelen Haas	su_haas@hotmail.com	1115305136	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 1
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Diogo Goncalves Da Silva	diogogonkalves97@gmail.com	4100863028	X	 
+Total de estudantes FSG - Bento Gonçalves: 1
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	X	 
+Camila Favaretto	camilafavaretto@outlook.com	1127969382	X	 
+Emannuel Simões Gasparetto	emannuel.gasparetto@gmail.com	2122267244	X	 
+Estela Moschetta Eidelwein	estelamoschetta@hotmail.com	6127169073	X	 
+Helen Crestani Slongo	helencslongo@gmail.com	1110912506	X	 
+Luana Vaz Da Silva De Souza	julianabetempsvaz@gmail.com	1123867689	X	 
+Marcelo Basso	marcelob2002@yahoo.com.br	5123975781	X	 
+Marieli Dall Acqua	marielidallacqua890@gmail.com	1116521574	X	 
+Sofia Zancanaro Habeck	pcydimple@gmail.com	4132273832	X	 
+Vinicius Lazzari	olivolazzari@hotmail.com	1118714128	X	 
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 10
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Jeferson Augusto Werle	jeferwerle@hotmail.com.br	7124077236	X	 
+Jonathan Pavan	jonathanpavan96@gmail.com	7116928511	X	 
+Maria Antonia Zem Rotava	mariarotava87@gmail.com	1114601014	X	 
+Ricardo Moreira Gomes	rikmgomes@gmail.com	7102384612	X	 
+Total de estudantes Método Medicina : 4
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Isadora Turatto Freitas	freitas.tisa@gmail.com	1122266511	X	X
+Mariana Audibert	audibertmariana@gmail.com	2113344135	X	X
+Total de estudantes Sapiens Espaço Educacional: 2
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Manhã: 27
+
+Tarde
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna Henicka Pontin	bpontin@gmail.com	3110260845	X	X
+Heloísa Cauduro	isa_helo.49@hotmail.com	3105930147	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 2
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Laura Müller	lauralmuller@hotmail.com	9118550293	X	X
+Pedro Eduardo Fischer Boeno	pedroeduardo445@gmail.com	1127969697	X	X
+Pedro Eduardo Fischer Boeno	pedroeduardo445@gmail.com	1127969697	X	X
+Total de estudantes Didático pré vestibular: 3
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	 	X
+Camila Favaretto	camilafavaretto@outlook.com	1127969382	 	X
+Emannuel Simões Gasparetto	emannuel.gasparetto@gmail.com	2122267244	 	X
+Estela Moschetta Eidelwein	estelamoschetta@hotmail.com	6127169073	 	X
+Helen Crestani Slongo	helencslongo@gmail.com	1110912506	 	X
+Katiele Da Silva	katikatisilvatw@gmail.com	1126928728	X	X
+Luana Vaz Da Silva De Souza	julianabetempsvaz@gmail.com	1123867689	 	X
+Marcelo Basso	marcelob2002@yahoo.com.br	5123975781	 	X
+Marieli Dall Acqua	marielidallacqua890@gmail.com	1116521574	 	X
+Sofia De Freitas Leitão	freitas.sofia15@gmail.com	6116441616	X	X
+Sofia Zancanaro Habeck	pcydimple@gmail.com	4132273832	 	X
+Victorio Battistello Faraco	victoriofaraco@gmail.com	7107896669	X	X
+Vinicius Lazzari	olivolazzari@hotmail.com	1118714128	 	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 13
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	 
+Jeferson Augusto Werle	jeferwerle@hotmail.com.br	7124077236	 	X
+Jonathan Pavan	jonathanpavan96@gmail.com	7116928511	 	X
+Maria Antonia Zem Rotava	mariarotava87@gmail.com	1114601014	 	X
+Ricardo Moreira Gomes	rikmgomes@gmail.com	7102384612	 	X
+Total de estudantes Método Medicina : 5
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Mariana Audibert	audibertmariana@gmail.com	2113344135	 	X
+Total de estudantes Sapiens Espaço Educacional: 1
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Tarde: 24
+
+Vespertino 16:00
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Heloísa Cauduro	isa_helo.49@hotmail.com	3105930147	 	X
+Total de estudantes Cenecista - Bento Gonçalves: 1
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Aline Zimmer	alyzimmer96@gmail.com	8111417021	X	X
+Anna Paula Simon Foppa	annapaulafoppa@gmail.com	9127513753	X	X
+Beatriz Cerrutti	beatriz.cerrutti@hotmail.com	5111417993	X	 
+Caroline Maria Emer	carolmariaemer@gmail.com	2123735314	X	 
+Deise Zwirtes	zwirtesdeise@yahoo.com.br	6100007291	X	X
+Geisebel Schmidt	geisebel.schmidt@gmail.com	1085446498	X	 
+Joice Klein	joice.klein7@hotmail.com	2100013751	X	 
+Matheus Capoani	capoani.matheus@gmail.com	6102384663	X	X
+Patrícia Aparecida De Oliveira Pagliari	patriciapagliari@yahoo.com.br	1074615673	X	 
+Total de estudantes UCS - CARVI - Bento Gonçalves: 9
+
+Total de estudantes Vespertino 16:00: 10
+
+Vespertino 17:30
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Cenecista - Bento Gonçalves: 0
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Vespertino 17:30: 0
+
+Noite
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Josiane Dalmina	josianedalmina550@gmail.com	8122888418	X	X
+Natalia Piacentini	nataliapiacentini2000@gmail.com	4123313282	X	X
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 2
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Marco Antônio Palharini	marcopalha@hotmail.com	7104218131	X	X
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 1
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Eliseu Canal	zeuz.canal@gmail.com	1102384375	X	X
+Guilherme Pedruzzi	guipedruzzi@gmail.com	4124563596	X	X
+Total de estudantes UCS - CARVI / ARCOVERDE: 2
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Daiane Gewehr	daiane.gewehr@hotmail.com	4118674896	X	X
+Dayse Cousseau Rodrigues	dayse.24rodrigues@gmail.com	8127660457	X	X
+Luana Gallina Baldasso	luanagallinabaldaso@yahoo.com.br	4100341661	X	X
+Milena Santacatarina	milenacolorada2008@hotmail.com	9115513617	X	X
+Tainá Danieli	tainadanieli789456@gmail.com	5113181258	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 5
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alessandro Sonaglio	alesonaglio1@hotmail.com	9120040499	X	X
+Camila Busnelo	cbusnelo@ymail.com	4121154159	X	X
+Cleia De Lima	cleia_delima@yahoo.com.br	3067950869	X	X
+Diogo Goncalves Da Silva	diogogonkalves97@gmail.com	4100863028	X	X
+Indiane Thums	indianethums13@gmail.com	1111391098	X	X
+Isabel Klein Chies	isa.chies@yahoo.com.br	1105575466	X	X
+Leila Cristine Muller	leila_cristinemuller@yahoo.com	9120101267	X	X
+Mara Rejane Morais Guerra	mrsmguerra@yahoo.com.br	5058768721	X	X
+Nelson Vinicius Cavalcante	nelsontuf33@gmail.com	20083379244	X	X
+Vânia Regina Marx	vaniamarx9028@gmail.com	4100014606	X	X
+Total de estudantes FSG - Bento Gonçalves: 10
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alessandra Fontanive Chies	alessandrafc18@gmail.com	1120828031	X	X
+Ana Paula Consalter	ana_consalter@hotmail.com	6124303592	X	X
+Anderson Anschau	ander.anschau@gmail.com	1115811067	X	X
+Anderson Zarpelon De Almeida	andersondealmeida97@gmail.com	2115915726	X	X
+Andressa Basso	dessinha.basso@hotmail.com	4100863168	X	X
+Bianca Kaefer	bianca.kaefer13@gmail.com	7124506705	X	X
+Fabiana Pedrotti	fabiana-pedrotti@hotmail.com	5129339635	X	X
+Felipe Belleboni Benini	opeco201@gmail.com	3122128501	X	X
+Fernando Pozzebon	fernando_pozzebon7@hotmail.com	7097284561	X	X
+Franciele Milani	franciele.milani@hotmail.com	9108585358	X	X
+Gilvan Guerra Carijo	gilvan.carijo@bol.com.br	8083839624	X	X
+Guilherme Henrique Werner	gui.werner123@gmail.com	1121684136	X	X
+Guilherme Milani	guilherme.milani94@gmail.com	1111881825	X	X
+Gustavo Henrique Pedralli	gustavohenriquepedralli@gmail.com	6125233962	X	X
+Gustavo Misturini	gustavomisturini95@yahoo.com.br	2094650799	X	X
+Gustavo Pacini	gpacini51@gmail.com	1074601434	X	X
+Henrique Biberg Dupont	henriquedupont@outlook.com	8116790901	X	X
+Jean Carlo Rucks	j_rucks@hotmail.com	3107895181	X	X
+João Barcela	joaobarcela005@hotmail.com	8121291721	X	X
+Joice Marini	joice-marini-1999@hotmail.com	9124012131	X	X
+Karen Willvvock	karen-willvock@hotmail.com	1120194665	X	X
+Larissa Canal	canallarie@gmail.com	1113453375	X	X
+Laura Martins Visintainer De Oliveira Chesini	lauravisintainer@hotmail.com	1106919135	X	X
+Leonardo Munch	leonardo_munch@hotmail.com	1104899701	X	X
+Leticia Villa	leticialvilla@gmail.com	3114087459	X	X
+Marcelo Augusto Grings	marcelogrings460@gmail.com	1120279375	X	X
+Michele Krindges Carniel	carniel2011@gmail.com	3117063424	X	X
+Milena Grolli	milenagrolli@hotmail.com	1125108462	X	X
+Nycolas Andrei Schafer	nycolasschafer@gmail.com	8124360201	X	X
+Tatiane Benelli	tatiane.benelli@telasul.com.br	5090534644	X	X
+Tyerri Carolo	tyerricarolo@hotmail.com	5115043274	X	X
+Wellyrson Bernardo Wollmuth	bernardo33k@gmail.com	3105450138	X	X
+Wesley João Bogoni	wesleyb502@hotmail.com	5113810468	X	X
+Willian Both Mossmann	willianmossmann47@gmail.com	2126701701	X	X
+Total de estudantes FTEC Bento Gonçalves: 34
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna C. Bender Caneppelle	bruna_camila_bender@yahoo.com.br	7126616601	X	X
+Eloise Cousseau Machry	eloisecousseau@gmail.com	1127991899	X	X
+Ingrid Eduarda Alves Menezes	ingrideduardaa@gmail.com	2126419461	X	X
+Karine Pradella	karinepradella13@gmail.com	1128676283	X	X
+Rafaela Kaefer	rafaelakaefer14@gmail.com	1118759065	X	X
+Renata S Moreira Rodrigues	renataeleandrorel@hotmail.com	1109458768	X	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 6
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	X
+Total de estudantes Método Medicina : 1
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Felipe Sauthier Gedoz	gedozfelipe7@gmail.com	4120217452	X	X
+Total de estudantes SENAC-Bento Gonçalves: 1
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Anderson William Freitas	willianrs_2011@hotmail.com	5107813726	X	X
+Cleison Da Fonseca	cleison.fonseca2930@gmail.com	1113716326	X	X
+Felipe Cassinelli	felipecasineli321@gmail.com	1129761779	X	X
+Total de estudantes SENAI-Bento Gonçalves: 3
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alana Alves Kurmann	aalana_allves@hotmail.com	8115822622	X	X
+Aline Nadir Dias Facchini	aline.dias0216@gmail.com	1116277219	X	X
+Aline Zimmer	alyzimmer96@gmail.com	8111417021	X	X
+Anderson Ziglio	andersonziglio2303@gmail.com	3123487971	X	X
+Anelize Royer	anelizeroyer@bol.com.br	2124540441	X	X
+Angelica M. A. Mendes	anjomagagnin@hotmail.com	8093533993	X	X
+Anna Paula Simon Foppa	annapaulafoppa@gmail.com	9127513753	X	X
+Beatriz Cerrutti	beatriz.cerrutti@hotmail.com	5111417993	 	X
+Bruna Deola Benedett	bruninhadb@hotmail.com	1113192544	X	X
+Bruna Imperatori	imperatori.ba@gmail.com	9122360705	X	X
+Carmela Sebastiany	csebastiany@ucs.br	5089540479	X	X
+Caroline Benedett	benedettcaroline@gmail.com	6120516221	X	X
+Caroline Maria Emer	carolmariaemer@gmail.com	2123735314	 	X
+Cintia Cichelero	cintia_cichelero@hotmail.com	6110878797	X	X
+Débora Villa	debora.polaca@hotmail.com	4104127594	X	X
+Everton Wartha	everton.wartha@gmail.com	6120887358	X	X
+Fabiana De Avila Oliveira	fabianaoliveira222@gmail.com	1097222697	X	X
+Felipe Azeredo	azeredofeli50@gmail.com	1123072769	X	X
+Felipe Cohsul Soares	pipecohsul@hotmail.com	1123630079	X	X
+Felipe Perera Dalcin	felipedalcin@live.com	1105575383	X	X
+Fernanda Zaro	fernanda4555@hotmail.com	1100340924	X	X
+Flávio Dos Santos Silveira	flavioesusa@gmail.com	9089512785	X	X
+Gabriel Carloto Da Silva	carlotogabriel12@gmail.com	3107586087	X	X
+Gabriel Merzoni	gabrielmerzoni@hotmail.com	8110274902	X	X
+Gabriel Zorzan Zanuz	gabrielzanuz@yahoo.com.br	5109201731	X	X
+Geisebel Schmidt	geisebel.schmidt@gmail.com	1085446498	X	X
+Géssica Busnelo	gessibusnelo@hotmail.com	7121154905	X	X
+Gian Lucca Lazzaron Patzlaf	gianluccalp@hotmail.com	7114314284	X	X
+Giovani Henrique Metz	giumetz@hotmail.com	3097062925	X	X
+Giovanna Salvi	giovannaanselminisalvi@gmail.com	1115340364	X	X
+Gisele Lara Martins	martinsgisele5@gmail.com	7107422961	X	X
+Gisele Lutz	giselelutz00@gmail.com	5122185365	X	X
+Gislaine Comparsi	gislaine_comparsi@hotmail.com	2115487684	X	X
+Grasiela Bombassaro	grasielab2008@hotmail.com	1065630351	X	X
+Guilherme R. Cohsul Borsoi	guilherme.borsoi@hotmail.com	9105934542	X	X
+Gustavo Cislaghi	cislaghigustavo@hotmail.com	3096514868	X	X
+Gustavo Demarchi	gustavod08@gmail.com	1097284309	X	X
+Gustavo Grespan Toffoli	toffoliguga@gmail.com	8122131058	X	X
+Izaias Mascena Machado	isaiasmachado125@gmail.com	3120976042	X	X
+Janaina Haefliger	janainahaefliger@outlook.com	5119399805	X	X
+Janice Kerber Heckler	janicekerber@yahoo.com.br	2069876338	X	X
+Jeane Santos Falcao	jeanesantos.falco@gmail.com	1098030331	X	X
+Jenifer Da Fonseca	Jeniferfonsecasouza@gmail.com	7113640689	X	X
+Jéssica Hensel Fink	jessicahfink@hotmail.com	1110543525	X	X
+João Lucas Barbo Reffatti	jlbarboreffatti@gmail.com	8111036763	X	X
+Joice Klein	joice.klein7@hotmail.com	2100013751	X	X
+Juarez Rodrigues Dos Santos	juarezrodriguesdossantos@yahoo.com.br	9084504861	X	X
+Júlia Biondo	julia-biberg@hotmail.com	1124327287	X	X
+Júlia Pradella	julia.pradella@hotmail.com	6122268078	X	X
+Kelin Rodrigues Dos Santos	kelinrdossantos@gmail.com	8107227368	X	X
+Lara Thomazel	larathomazel@gmail.com	6098031013	X	X
+Larissa Victoria S Freire	larivictoriafreire01@hotmail.com	1124828284	X	X
+Lucas Guilherme Hensel	lucashensel@hotmail.com	1086984414	X	X
+Lucas José Ertel	lucasedel23@gmail.com	4112054756	X	X
+Lucas Luis Pletsch	lucas-pletsch1@hotmail.com	6099019207	X	X
+Luiz Fernando Vilhena Basso	luizbasso3112@gmail.com	3100340623	X	X
+Luiz Henrique Birck	lhbirck@hotmail.com	8110096362	X	X
+Madalena Cristina Kieling	lenakieling@hotmail.com	5064843104	X	X
+Maitchel Baldasso	maitchel.baldasso@gmail.com	7123676137	X	X
+Mariana Rossi	marianarossipmam@gmail.com	2123135242	X	X
+Mariane Schumacher	marischumacher90@gmail.com	8101374455	X	X
+Maridiane Lugaresi	maridiane.lugaresi@hotmail.com	9112154217	X	X
+Mateus Luis Follmann	mateus.follmann@hotmail.com	8101909854	X	X
+Milena Bock Dalmas	milenabock910@gmail.com	9120639886	X	X
+Milene Benedetti Da Fonseca	milene58bf@gmail.com	8126267072	X	X
+Millena Specht Frozza	millenafrozza00@gmail.com	7116592184	X	X
+Moisés Danieli	mosidanieli@gmail.com	1100014156	X	X
+Nailane Maria Benelli	nailane.benelli@yahoo.com.br	1119652798	X	X
+Patrícia Aparecida De Oliveira Pagliari	patriciapagliari@yahoo.com.br	1074615673	 	X
+Priscila R. Da Rosa	prisciladarosa2009@gmail.com	5099029315	X	X
+Raquel Dornelles	rakednl@hotmail.com	5066568981	X	X
+Rocheli Muller	rocheli.xuxu@gmail.com	4104223369	X	X
+Sabrina Flores De Azevedo	sabrinaazevedo97@hotmail.com	7118878516	X	X
+Sandra Regina Turcato Cadorin	srtcador@yahoo.com.br	8084698409	X	X
+Suélen Aparecida Da Fontoura	suelen_fontoura@hotmail.com	4106155239	X	X
+Taís Seibel	taisseibel@gmail.com	2113643651	X	X
+Taline Thuns Neis	talineth@hotmail.com	6115740943	X	X
+Tatiana Mossmann Leindecker	tati_leindecker@yahoo.com.br	9091457094	X	X
+Tatiane Kochhann	tatianekochhann@gmail.com	9113379383	X	X
+Thayna Luiza Dalmas	tthaynaluiza@hotmail.com	2127626998	X	X
+Tiago Frubel	tiaguinho_frubel@hotmail.com	1109141919	X	X
+William Pilger	pilger.will@gmail.com	8125646003	X	X
+Total de estudantes UCS - CARVI - Bento Gonçalves: 82
+
+Total de estudantes Noite: 147
+
+Total de estudantes Segunda-feira: 208
+
+Terça-feira
+Manhã
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Ana Carolina Kanoffre Camargo	julianakanoffre@gmail.com	9113274601	X	X
+Daniela Klock Romio	klock_daniela@yahoo.com.br	6131780873	X	X
+Elen Patzlaff Da Silva	elensilva086@gmail.com	4121684064	X	X
+Isabel Doring Baranzeli	baranzeli_isabel@outlook.com	5129523832	X	X
+Luana Cislaghi Chaves	cislaghiluana52@gmail.com	4123148671	X	X
+Maria Elizabeth Visintainer	maria.e.visintainer001@gmail.com	7134742183	X	X
+Maria Elizabeth Visintainer	maria.e.visintainer001@gmail.com	7134742183	X	X
+Nicia R. Accorsi Gonçalves	niciaroberta@gmail.com	5123266388	X	X
+Roberta Mello Benini	beninijb@gmail.com	1125269876	X	X
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 9
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Suelen Haas	su_haas@hotmail.com	1115305136	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 1
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	X	 
+Camila Favaretto	camilafavaretto@outlook.com	1127969382	X	X
+Emannuel Simões Gasparetto	emannuel.gasparetto@gmail.com	2122267244	X	 
+Estela Moschetta Eidelwein	estelamoschetta@hotmail.com	6127169073	X	 
+Helen Crestani Slongo	helencslongo@gmail.com	1110912506	X	X
+Luana Vaz Da Silva De Souza	julianabetempsvaz@gmail.com	1123867689	X	 
+Marcelo Basso	marcelob2002@yahoo.com.br	5123975781	X	 
+Marieli Dall Acqua	marielidallacqua890@gmail.com	1116521574	X	 
+Sofia De Freitas Leitão	freitas.sofia15@gmail.com	6116441616	X	 
+Sofia Zancanaro Habeck	pcydimple@gmail.com	4132273832	X	 
+Victorio Battistello Faraco	victoriofaraco@gmail.com	7107896669	X	 
+Vinicius Lazzari	olivolazzari@hotmail.com	1118714128	X	 
+Willian Bergonsi	willian-bergonsi@hotmail.com	9100013425	X	 
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 13
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Jeferson Augusto Werle	jeferwerle@hotmail.com.br	7124077236	X	 
+Jonathan Pavan	jonathanpavan96@gmail.com	7116928511	X	 
+Maria Antonia Zem Rotava	mariarotava87@gmail.com	1114601014	X	 
+Ricardo Moreira Gomes	rikmgomes@gmail.com	7102384612	X	 
+Total de estudantes Método Medicina : 4
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Isadora Turatto Freitas	freitas.tisa@gmail.com	1122266511	X	X
+Mariana Audibert	audibertmariana@gmail.com	2113344135	X	X
+Total de estudantes Sapiens Espaço Educacional: 2
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Manhã: 29
+
+Tarde
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna Henicka Pontin	bpontin@gmail.com	3110260845	X	X
+Heloísa Cauduro	isa_helo.49@hotmail.com	3105930147	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 2
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Laura Müller	lauralmuller@hotmail.com	9118550293	X	X
+Pedro Eduardo Fischer Boeno	pedroeduardo445@gmail.com	1127969697	X	X
+Pedro Eduardo Fischer Boeno	pedroeduardo445@gmail.com	1127969697	X	X
+Total de estudantes Didático pré vestibular: 3
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	 	X
+Emannuel Simões Gasparetto	emannuel.gasparetto@gmail.com	2122267244	 	X
+Estela Moschetta Eidelwein	estelamoschetta@hotmail.com	6127169073	 	X
+Helen Crestani Slongo	helencslongo@gmail.com	1110912506	 	X
+Katiele Da Silva	katikatisilvatw@gmail.com	1126928728	X	X
+Luana Vaz Da Silva De Souza	julianabetempsvaz@gmail.com	1123867689	 	X
+Marcelo Basso	marcelob2002@yahoo.com.br	5123975781	 	X
+Marieli Dall Acqua	marielidallacqua890@gmail.com	1116521574	 	X
+Sofia De Freitas Leitão	freitas.sofia15@gmail.com	6116441616	 	X
+Sofia Zancanaro Habeck	pcydimple@gmail.com	4132273832	 	X
+Victorio Battistello Faraco	victoriofaraco@gmail.com	7107896669	 	X
+Vinicius Lazzari	olivolazzari@hotmail.com	1118714128	 	X
+Willian Bergonsi	willian-bergonsi@hotmail.com	9100013425	 	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 13
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	 
+Jeferson Augusto Werle	jeferwerle@hotmail.com.br	7124077236	 	X
+Jonathan Pavan	jonathanpavan96@gmail.com	7116928511	 	X
+Maria Antonia Zem Rotava	mariarotava87@gmail.com	1114601014	 	X
+Ricardo Moreira Gomes	rikmgomes@gmail.com	7102384612	 	X
+Total de estudantes Método Medicina : 5
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Mariana Audibert	audibertmariana@gmail.com	2113344135	 	X
+Total de estudantes Sapiens Espaço Educacional: 1
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Gabriele Migot Maier	gabrielem01@yahoo.com.br	3109586631	X	 
+Izaias Mascena Machado	isaiasmachado125@gmail.com	3120976042	X	 
+Total de estudantes UCS - CARVI - Bento Gonçalves: 2
+
+Total de estudantes Tarde: 26
+
+Vespertino 16:00
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Heloísa Cauduro	isa_helo.49@hotmail.com	3105930147	 	X
+Soraia Silveira Sfoggia	soraiasfoggia@hotmail.com	1096512973	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 2
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Gustavo Kinzel	guto_kinzel@live.com	8098423679	X	 
+Total de estudantes FTEC Bento Gonçalves: 1
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Andressa Scottá	andressa_07scotta@hotmail.com	1105934945	X	 
+Daniela Samara Ribeiro Da Silva	dani.sama.ra@hotmail.com	4107896567	X	X
+Daniela Samara Ribeiro Da Silva	dani.sama.ra@hotmail.com	4107896567	X	X
+Grasiela Bombassaro	grasielab2008@hotmail.com	1065630351	X	X
+Nicole Baccon Saleri	nicolesaleri@gmail.com	9119530872	X	 
+Rodolfo Taufer	rodi_rt@hotmail.com	8100341406	X	X
+Total de estudantes UCS - CARVI - Bento Gonçalves: 6
+
+Total de estudantes Vespertino 16:00: 9
+
+Vespertino 17:30
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Cenecista - Bento Gonçalves: 0
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Vespertino 17:30: 0
+
+Noite
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Josiane Dalmina	josianedalmina550@gmail.com	8122888418	X	X
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 1
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Henrique Tenedini	htenedini@gmail.com	2109420031	X	X
+Marco Antônio Palharini	marcopalha@hotmail.com	7104218131	X	X
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 2
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Felipe Ferranti	felipeferranti123@hotmail.com	4114036355	X	X
+Felipe Vicentini	felipe.vicentini2@gmail.com	4125514101	X	X
+Guilherme Pedruzzi	guipedruzzi@gmail.com	4124563596	X	X
+Total de estudantes UCS - CARVI / ARCOVERDE: 3
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Daiane Gewehr	daiane.gewehr@hotmail.com	4118674896	X	X
+Dayana Soliman	dayasoliman@yahoo.com.br	5116225722	X	X
+Luana Gallina Baldasso	luanagallinabaldaso@yahoo.com.br	4100341661	X	X
+Milena Santacatarina	milenacolorada2008@hotmail.com	9115513617	X	X
+Natália Camini Favretto	nataliacaminifavretto@gmail.com	3120217702	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 5
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Andressa Lusani	andressalusani@gmail.com	1114214586	X	X
+Brenda Baldasso Cazanatto	brendabcazanatto@gmail.com	4121837639	X	X
+Camila Busnelo	cbusnelo@ymail.com	4121154159	X	X
+Diogo Goncalves Da Silva	diogogonkalves97@gmail.com	4100863028	X	X
+Indiane Thums	indianethums13@gmail.com	1111391098	X	X
+Isabel Klein Chies	isa.chies@yahoo.com.br	1105575466	X	X
+Mara Rejane Morais Guerra	mrsmguerra@yahoo.com.br	5058768721	X	X
+Natanael Rebelatto Comparsi	natanaelrc.2012@gmail.com	1126674678	X	X
+Nelson Vinicius Cavalcante	nelsontuf33@gmail.com	20083379244	X	X
+Paloma Piccoli	palomapiccoli2020@gmail.com	1115677161	X	X
+Sandro Gugel	sandrogugel@hotmail.com	8096737096	X	X
+Suzane Luiza Schuster Neuhaus	ssuzaneluiza@yahoo.com.br	7123885092	X	X
+Thalison Hiago Ferrari	thalisonhferrari@gmail.com	7128760217	X	X
+Vânia Regina Marx	vaniamarx9028@gmail.com	4100014606	X	X
+Wilian Deivis Ribas	wilian.ribas@yahoo.com.br	1122225665	X	X
+Total de estudantes FSG - Bento Gonçalves: 15
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alessandra Fontanive Chies	alessandrafc18@gmail.com	1120828031	X	X
+Ana Paula Consalter	ana_consalter@hotmail.com	6124303592	X	X
+Anderson Anschau	ander.anschau@gmail.com	1115811067	X	X
+Cristiane Chies	cristiane.chies@telasul.com.br	8074600134	X	X
+Crystuel Angelo Da Costa	crystuel.dacosta@gmail.com	9123956865	X	X
+Daniel Weschenfelder	weschenfelder.dani@gmail.com	6117309606	X	X
+Edeana A. Pedrotti Franzosi	edeanafranzosi@yahoo.com.br	1111389332	X	X
+Felipe Belleboni Benini	opeco201@gmail.com	3122128501	X	X
+Gabriel Santos Ribeiro	gabriel.santosribeiro02@gmail.com	1095977524	X	X
+Gilvan Guerra Carijo	gilvan.carijo@bol.com.br	8083839624	X	X
+Guilherme Henrique Werner	gui.werner123@gmail.com	1121684136	X	X
+Gustavo Henrique Pedralli	gustavohenriquepedralli@gmail.com	6125233962	X	X
+Gustavo Kinzel	guto_kinzel@live.com	8098423679	 	X
+Gustavo Misturini	gustavomisturini95@yahoo.com.br	2094650799	X	X
+Gustavo Pacini	gpacini51@gmail.com	1074601434	X	X
+Henrique Biberg Dupont	henriquedupont@outlook.com	8116790901	X	X
+Jean Carlo Boscaini	jeanbosca6@hotmail.com	7094645913	X	X
+João Barcela	joaobarcela005@hotmail.com	8121291721	X	X
+Julia Werner	julia.werner240897@gmail.com	3120820976	X	X
+Larissa Canal	canallarie@gmail.com	1113453375	X	X
+Laura Martins Visintainer De Oliveira Chesini	lauravisintainer@hotmail.com	1106919135	X	X
+Luana Da Luz Käfer	luana_lkafer@hotmail.com	9084599027	X	X
+Lucas Foppa	lucas_fop_pa@hotmail.com	3123004602	X	X
+Mateus Girotto	girotto99@gmail.com	5116101329	X	X
+Milena Cousseau	milenaccou@gmail.com	9123739154	X	X
+Milena Cousseau	milenaccou@gmail.com	9123739154	X	X
+Nycolas Andrei Schafer	nycolasschafer@gmail.com	8124360201	X	X
+Suelen Silveira De Rodrigues	silveirasuelen546@gmail.com	5109801778	X	X
+Tatiane Benelli	tatiane.benelli@telasul.com.br	5090534644	X	X
+Wellyrson Bernardo Wollmuth	bernardo33k@gmail.com	3105450138	X	X
+Willian Both Mossmann	willianmossmann47@gmail.com	2126701701	X	X
+Total de estudantes FTEC Bento Gonçalves: 31
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna C. Bender Caneppelle	bruna_camila_bender@yahoo.com.br	7126616601	X	X
+Eloise Cousseau Machry	eloisecousseau@gmail.com	1127991899	X	X
+Ingrid Eduarda Alves Menezes	ingrideduardaa@gmail.com	2126419461	X	X
+Karine Pradella	karinepradella13@gmail.com	1128676283	X	X
+Rafaela Kaefer	rafaelakaefer14@gmail.com	1118759065	X	X
+Renata S Moreira Rodrigues	renataeleandrorel@hotmail.com	1109458768	X	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 6
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	X
+Total de estudantes Método Medicina : 1
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Felipe Sauthier Gedoz	gedozfelipe7@gmail.com	4120217452	X	X
+Márcia Malvez Atuatti	marciamalvez78@gmail.com	5053483318	X	X
+Total de estudantes SENAC-Bento Gonçalves: 2
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Anderson William Freitas	willianrs_2011@hotmail.com	5107813726	X	X
+Cleison Da Fonseca	cleison.fonseca2930@gmail.com	1113716326	X	X
+Felipe Cassinelli	felipecasineli321@gmail.com	1129761779	X	X
+Total de estudantes SENAI-Bento Gonçalves: 3
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alana Alves Kurmann	aalana_allves@hotmail.com	8115822622	X	X
+Alexandro Morari	amorari1@ucs.br	9060606143	X	X
+Aline Stein	aline.stein@hotmail.com.br	7116005112	X	X
+Aline Zimmer	alyzimmer96@gmail.com	8111417021	X	X
+André Garcia Rafaelli Rigoni	andrerigoni6@gmail.com	1100340445	X	X
+Andressa Scottá	andressa_07scotta@hotmail.com	1105934945	 	X
+Anna Paula Simon Foppa	annapaulafoppa@gmail.com	9127513753	X	X
+Beatriz Cerrutti	beatriz.cerrutti@hotmail.com	5111417993	X	X
+Bruna Imperatori	imperatori.ba@gmail.com	9122360705	X	X
+Caroline Belleboni	caroline.belleboni@gmail.com	9126928457	X	X
+Caroline Benedett	benedettcaroline@gmail.com	6120516221	X	X
+Caroline Maria Emer	carolmariaemer@gmail.com	2123735314	X	X
+Cintia Cichelero	cintia_cichelero@hotmail.com	6110878797	X	X
+Cleber Junior Bonetti	bonetticleber@gmail.com	9097063318	X	X
+Daniela Girotto	danielagirotto1@gmail.com	3100014202	X	X
+Débora Villa	debora.polaca@hotmail.com	4104127594	X	X
+Eduarda Pletsch	eduarda.pletsch2@gmail.com	9106513361	X	X
+Emili Alberti Capeletti	emilialberti27@gmail.com	8118838567	X	X
+Everton Wartha	everton.wartha@gmail.com	6120887358	X	X
+Felipe Azeredo	azeredofeli50@gmail.com	1123072769	X	X
+Felipe Cohsul Soares	pipecohsul@hotmail.com	1123630079	X	X
+Felipe Perera Dalcin	felipedalcin@live.com	1105575383	X	X
+Flávio Dos Santos Silveira	flavioesusa@gmail.com	9089512785	X	X
+Gabriel Carloto Da Silva	carlotogabriel12@gmail.com	3107586087	X	X
+Gabriel Mazetti	mazetti_mazetti@hotmail.com	6111975394	X	X
+Gabriel Merzoni	gabrielmerzoni@hotmail.com	8110274902	X	X
+Gabriel Zorzan Zanuz	gabrielzanuz@yahoo.com.br	5109201731	X	X
+Gabriele Migot Maier	gabrielem01@yahoo.com.br	3109586631	 	X
+Giovanna Salvi	giovannaanselminisalvi@gmail.com	1115340364	X	X
+Gisele Lara Martins	martinsgisele5@gmail.com	7107422961	X	X
+Gisele Lutz	giselelutz00@gmail.com	5122185365	X	X
+Gislaine Comparsi	gislaine_comparsi@hotmail.com	2115487684	X	X
+Guilherme R. Cohsul Borsoi	guilherme.borsoi@hotmail.com	9105934542	X	X
+Gustavo Cislaghi	cislaghigustavo@hotmail.com	3096514868	X	X
+Gustavo Grespan Toffoli	toffoliguga@gmail.com	8122131058	X	X
+Gustavo Heckler	gustavoheckler@hotmail.com	1100341088	X	X
+Izaias Mascena Machado	isaiasmachado125@gmail.com	3120976042	 	X
+Jeane Santos Falcao	jeanesantos.falco@gmail.com	1098030331	X	X
+Jenifer Da Fonseca	Jeniferfonsecasouza@gmail.com	7113640689	X	X
+Joice Tatiana Sulzbach	joice.sulzbach@hotmail.com	1105210338	X	X
+Juarez Rodrigues Dos Santos	juarezrodriguesdossantos@yahoo.com.br	9084504861	X	X
+Júlia Pradella	julia.pradella@hotmail.com	6122268078	X	X
+Kelin Rodrigues Dos Santos	kelinrdossantos@gmail.com	8107227368	X	X
+Leonardo Deitos Ely	leoely08@hotmail.com	8121141686	X	X
+Lucas Luis Pletsch	lucas-pletsch1@hotmail.com	6099019207	X	X
+Luiz Fernando Vilhena Basso	luizbasso3112@gmail.com	3100340623	X	X
+Madalena Cristina Kieling	lenakieling@hotmail.com	5064843104	X	X
+Maitchel Baldasso	maitchel.baldasso@gmail.com	7123676137	X	X
+Marcelo Benedet Lussani	marcelo_lussani@hotmail.com	1122029018	X	X
+Maria Eduarda G Gonçalves	dudinha-goncalves@hotmail.com	1114155243	X	X
+Mariana Rossi	marianarossipmam@gmail.com	2123135242	X	X
+Marilei Schauren Cherutti	marievandecherutti@gmail.com	1086717095	X	X
+Mateus Luis Follmann	mateus.follmann@hotmail.com	8101909854	X	X
+Mateus Zarpelon	theus_mateus@hotmail.com	5096514566	X	X
+Matheus Capoani	capoani.matheus@gmail.com	6102384663	X	X
+Matheus Ramos Maccari	mrmaccari1@ucs.br	8117670078	X	X
+Milena Bock Dalmas	milenabock910@gmail.com	9120639886	X	X
+Milene Benedetti Da Fonseca	milene58bf@gmail.com	8126267072	X	X
+Moisés Danieli	mosidanieli@gmail.com	1100014156	X	X
+Nailane Maria Benelli	nailane.benelli@yahoo.com.br	1119652798	X	X
+Naquieli F. Favero	naquieli2011@hotmail.com	1100341691	X	X
+Nicole Baccon Saleri	nicolesaleri@gmail.com	9119530872	 	X
+Patrícia Aparecida De Oliveira Pagliari	patriciapagliari@yahoo.com.br	1074615673	X	X
+Patricia Tomaz Tedeschi	patricia.tedeschi@hotmail.com	2095205031	X	X
+Pedro Henrique Farneda	phenriquefarneda@gmail.com	7123554623	X	X
+Pietro Olivio M. Sganderla	ice.aventura@hotmail.com	8100339889	X	X
+Rocheli Muller	rocheli.xuxu@gmail.com	4104223369	X	X
+Sandra Regina Turcato Cadorin	srtcador@yahoo.com.br	8084698409	X	X
+Taline Thuns Neis	talineth@hotmail.com	6115740943	X	X
+Tatiane Kochhann	tatianekochhann@gmail.com	9113379383	X	X
+Thalia Rucks	thaliarucks@hotmail.com	6100015111	X	X
+Thayna Luiza Dalmas	tthaynaluiza@hotmail.com	2127626998	X	X
+Thomas Hammes	thomas.hammmes@hotmail.com	1122016049	X	X
+Tiago Frubel	tiaguinho_frubel@hotmail.com	1109141919	X	X
+Vinicius Da Silva	vinisilva21@yahoo.com.br	4120610029	X	X
+William Pilger	pilger.will@gmail.com	8125646003	X	X
+Total de estudantes UCS - CARVI - Bento Gonçalves: 76
+
+Total de estudantes Noite: 145
+
+Total de estudantes Terça-feira: 209
+
+Quarta-feira
+Manhã
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Ana Carolina Kanoffre Camargo	julianakanoffre@gmail.com	9113274601	X	X
+Daniela Klock Romio	klock_daniela@yahoo.com.br	6131780873	X	X
+Elen Patzlaff Da Silva	elensilva086@gmail.com	4121684064	X	X
+Isabel Doring Baranzeli	baranzeli_isabel@outlook.com	5129523832	X	X
+Luana Cislaghi Chaves	cislaghiluana52@gmail.com	4123148671	X	X
+Maria Elizabeth Visintainer	maria.e.visintainer001@gmail.com	7134742183	X	X
+Maria Elizabeth Visintainer	maria.e.visintainer001@gmail.com	7134742183	X	X
+Nicia R. Accorsi Gonçalves	niciaroberta@gmail.com	5123266388	X	X
+Roberta Mello Benini	beninijb@gmail.com	1125269876	X	X
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 9
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Suelen Haas	su_haas@hotmail.com	1115305136	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 1
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	X	X
+Camila Favaretto	camilafavaretto@outlook.com	1127969382	X	X
+Emannuel Simões Gasparetto	emannuel.gasparetto@gmail.com	2122267244	X	X
+Estela Moschetta Eidelwein	estelamoschetta@hotmail.com	6127169073	X	 
+Helen Crestani Slongo	helencslongo@gmail.com	1110912506	X	 
+Luana Vaz Da Silva De Souza	julianabetempsvaz@gmail.com	1123867689	X	X
+Marcelo Basso	marcelob2002@yahoo.com.br	5123975781	X	 
+Marieli Dall Acqua	marielidallacqua890@gmail.com	1116521574	X	X
+Sofia De Freitas Leitão	freitas.sofia15@gmail.com	6116441616	X	X
+Sofia Zancanaro Habeck	pcydimple@gmail.com	4132273832	X	X
+Victorio Battistello Faraco	victoriofaraco@gmail.com	7107896669	X	X
+Vinicius Lazzari	olivolazzari@hotmail.com	1118714128	X	 
+Willian Bergonsi	willian-bergonsi@hotmail.com	9100013425	X	 
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 13
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Jeferson Augusto Werle	jeferwerle@hotmail.com.br	7124077236	X	 
+Jonathan Pavan	jonathanpavan96@gmail.com	7116928511	X	 
+Maria Antonia Zem Rotava	mariarotava87@gmail.com	1114601014	X	 
+Ricardo Moreira Gomes	rikmgomes@gmail.com	7102384612	X	 
+Total de estudantes Método Medicina : 4
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Isadora Turatto Freitas	freitas.tisa@gmail.com	1122266511	X	X
+Mariana Audibert	audibertmariana@gmail.com	2113344135	X	X
+Total de estudantes Sapiens Espaço Educacional: 2
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Manhã: 29
+
+Tarde
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna Henicka Pontin	bpontin@gmail.com	3110260845	X	X
+Heloísa Cauduro	isa_helo.49@hotmail.com	3105930147	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 2
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Laura Müller	lauralmuller@hotmail.com	9118550293	X	X
+Pedro Eduardo Fischer Boeno	pedroeduardo445@gmail.com	1127969697	X	X
+Pedro Eduardo Fischer Boeno	pedroeduardo445@gmail.com	1127969697	X	X
+Total de estudantes Didático pré vestibular: 3
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	 	X
+Camila Favaretto	camilafavaretto@outlook.com	1127969382	 	X
+Estela Moschetta Eidelwein	estelamoschetta@hotmail.com	6127169073	 	X
+Helen Crestani Slongo	helencslongo@gmail.com	1110912506	 	X
+Katiele Da Silva	katikatisilvatw@gmail.com	1126928728	X	X
+Marcelo Basso	marcelob2002@yahoo.com.br	5123975781	 	X
+Vinicius Lazzari	olivolazzari@hotmail.com	1118714128	 	X
+Willian Bergonsi	willian-bergonsi@hotmail.com	9100013425	 	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 8
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	 
+Jeferson Augusto Werle	jeferwerle@hotmail.com.br	7124077236	 	X
+Jonathan Pavan	jonathanpavan96@gmail.com	7116928511	 	X
+Maria Antonia Zem Rotava	mariarotava87@gmail.com	1114601014	 	X
+Ricardo Moreira Gomes	rikmgomes@gmail.com	7102384612	 	X
+Total de estudantes Método Medicina : 5
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Mariana Audibert	audibertmariana@gmail.com	2113344135	 	X
+Total de estudantes Sapiens Espaço Educacional: 1
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Tarde: 19
+
+Vespertino 16:00
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Heloísa Cauduro	isa_helo.49@hotmail.com	3105930147	 	X
+Total de estudantes Cenecista - Bento Gonçalves: 1
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Andressa Scottá	andressa_07scotta@hotmail.com	1105934945	X	 
+Daniela Girotto	danielagirotto1@gmail.com	3100014202	X	X
+Eduarda Pletsch	eduarda.pletsch2@gmail.com	9106513361	X	 
+Everton Wartha	everton.wartha@gmail.com	6120887358	X	X
+Izaias Mascena Machado	isaiasmachado125@gmail.com	3120976042	X	 
+Lucas José Ertel	lucasedel23@gmail.com	4112054756	X	 
+Madalena Cristina Kieling	lenakieling@hotmail.com	5064843104	X	 
+Nicole Baccon Saleri	nicolesaleri@gmail.com	9119530872	X	 
+Paloma Sangali Machado	palomasangalimachado@yahoo.com.br	5118444644	X	X
+Patricia Tomaz Tedeschi	patricia.tedeschi@hotmail.com	2095205031	X	 
+Total de estudantes UCS - CARVI - Bento Gonçalves: 10
+
+Total de estudantes Vespertino 16:00: 11
+
+Vespertino 17:30
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Cenecista - Bento Gonçalves: 0
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Vespertino 17:30: 0
+
+Noite
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Josiane Dalmina	josianedalmina550@gmail.com	8122888418	X	X
+Natalia Piacentini	nataliapiacentini2000@gmail.com	4123313282	X	X
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 2
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Marco Antônio Palharini	marcopalha@hotmail.com	7104218131	X	X
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 1
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Felipe Ferranti	felipeferranti123@hotmail.com	4114036355	X	X
+Total de estudantes UCS - CARVI / ARCOVERDE: 1
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna Henicka Pontin	bpontin@gmail.com	3110260845	X	X
+Dayana Soliman	dayasoliman@yahoo.com.br	5116225722	X	X
+Dayse Cousseau Rodrigues	dayse.24rodrigues@gmail.com	8127660457	X	X
+Gessica Herbert	gee_herbert@hotmail.com	6097285594	X	X
+Luana Gallina Baldasso	luanagallinabaldaso@yahoo.com.br	4100341661	X	X
+Marines De F. Sangali	marinessangali@yahoo.com.br	3073211785	X	X
+Milena Santacatarina	milenacolorada2008@hotmail.com	9115513617	X	X
+Morgana Benini	morganabenini@hotmail.com	1111546766	X	X
+Natália Camini Favretto	nataliacaminifavretto@gmail.com	3120217702	X	X
+Soraia Silveira Sfoggia	soraiasfoggia@hotmail.com	1096512973	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 10
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alessandro Sonaglio	alesonaglio1@hotmail.com	9120040499	X	X
+Camila Busnelo	cbusnelo@ymail.com	4121154159	X	X
+Carlos H. Herpich	carlosherpich20@gmail.com	1114220278	X	X
+Diogo Goncalves Da Silva	diogogonkalves97@gmail.com	4100863028	X	X
+Isabel Klein Chies	isa.chies@yahoo.com.br	1105575466	X	X
+Leila Cristine Muller	leila_cristinemuller@yahoo.com	9120101267	X	X
+Mara Rejane Morais Guerra	mrsmguerra@yahoo.com.br	5058768721	X	X
+Sandro Gugel	sandrogugel@hotmail.com	8096737096	X	X
+Suzane Luiza Schuster Neuhaus	ssuzaneluiza@yahoo.com.br	7123885092	X	X
+Thalison Hiago Ferrari	thalisonhferrari@gmail.com	7128760217	X	X
+Wilian Deivis Ribas	wilian.ribas@yahoo.com.br	1122225665	X	X
+Total de estudantes FSG - Bento Gonçalves: 11
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alessandra Fontanive Chies	alessandrafc18@gmail.com	1120828031	X	X
+Ana Paula Consalter	ana_consalter@hotmail.com	6124303592	X	X
+Anderson Zarpelon De Almeida	andersondealmeida97@gmail.com	2115915726	X	X
+Bianca Kaefer	bianca.kaefer13@gmail.com	7124506705	X	X
+Cristiane Chies	cristiane.chies@telasul.com.br	8074600134	X	X
+Crystuel Angelo Da Costa	crystuel.dacosta@gmail.com	9123956865	X	X
+Daniel Weschenfelder	weschenfelder.dani@gmail.com	6117309606	X	X
+Douglas Dall Agnol	dodidall7@hotmail.com	7102213191	X	X
+Fabiana Pedrotti	fabiana-pedrotti@hotmail.com	5129339635	X	X
+Felipe Belleboni Benini	opeco201@gmail.com	3122128501	X	X
+Franciele Milani	franciele.milani@hotmail.com	9108585358	X	X
+Gabriel Santos Ribeiro	gabriel.santosribeiro02@gmail.com	1095977524	X	X
+Gilvan Guerra Carijo	gilvan.carijo@bol.com.br	8083839624	X	X
+Guilherme Milani	guilherme.milani94@gmail.com	1111881825	X	X
+Gustavo Henrique Pedralli	gustavohenriquepedralli@gmail.com	6125233962	X	X
+Gustavo Kinzel	guto_kinzel@live.com	8098423679	X	X
+Gustavo Misturini	gustavomisturini95@yahoo.com.br	2094650799	X	X
+Gustavo Pacini	gpacini51@gmail.com	1074601434	X	X
+Henrique Biberg Dupont	henriquedupont@outlook.com	8116790901	X	X
+Joice Marini	joice-marini-1999@hotmail.com	9124012131	X	X
+Karen Willvvock	karen-willvock@hotmail.com	1120194665	X	X
+Larissa Canal	canallarie@gmail.com	1113453375	X	X
+Leonardo Munch	leonardo_munch@hotmail.com	1104899701	X	X
+Leticia Villa	leticialvilla@gmail.com	3114087459	X	X
+Lucas Foppa	lucas_fop_pa@hotmail.com	3123004602	X	X
+Marcelo Augusto Grings	marcelogrings460@gmail.com	1120279375	X	X
+Rudinei Weschenfelder	rudiw2013@gmail.com	9118747626	X	X
+Suelen Silveira De Rodrigues	silveirasuelen546@gmail.com	5109801778	X	X
+Wellyrson Bernardo Wollmuth	bernardo33k@gmail.com	3105450138	X	X
+Total de estudantes FTEC Bento Gonçalves: 29
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna C. Bender Caneppelle	bruna_camila_bender@yahoo.com.br	7126616601	X	X
+Eloise Cousseau Machry	eloisecousseau@gmail.com	1127991899	X	X
+Ingrid Eduarda Alves Menezes	ingrideduardaa@gmail.com	2126419461	X	X
+Karine Pradella	karinepradella13@gmail.com	1128676283	X	X
+Moyses Volpatto A. Machado	moi.9.machado@gmail.com	1094995857	X	X
+Rafaela Kaefer	rafaelakaefer14@gmail.com	1118759065	X	X
+Renata S Moreira Rodrigues	renataeleandrorel@hotmail.com	1109458768	X	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 7
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	X
+Total de estudantes Método Medicina : 1
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Felipe Sauthier Gedoz	gedozfelipe7@gmail.com	4120217452	X	X
+Márcia Malvez Atuatti	marciamalvez78@gmail.com	5053483318	X	X
+Total de estudantes SENAC-Bento Gonçalves: 2
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Anderson William Freitas	willianrs_2011@hotmail.com	5107813726	X	X
+Cleison Da Fonseca	cleison.fonseca2930@gmail.com	1113716326	X	X
+Felipe Cassinelli	felipecasineli321@gmail.com	1129761779	X	X
+Total de estudantes SENAI-Bento Gonçalves: 3
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Aline Zimmer	alyzimmer96@gmail.com	8111417021	X	X
+Ana Laura Da Fontoura	annalauura1@hotmail.com	1112955156	X	X
+Andressa Scottá	andressa_07scotta@hotmail.com	1105934945	 	X
+Anelize Royer	anelizeroyer@bol.com.br	2124540441	X	X
+Angelica M. A. Mendes	anjomagagnin@hotmail.com	8093533993	X	X
+Anna Paula Simon Foppa	annapaulafoppa@gmail.com	9127513753	X	X
+Augusto Klein	augusto_klein@hotmail.com	3085446684	X	X
+Bruna Bavarsco Perera	brunatperera@gmail.com	3118735269	X	X
+Bruna Deola Benedett	bruninhadb@hotmail.com	1113192544	X	X
+Caroline Maria Emer	carolmariaemer@gmail.com	2123735314	X	X
+Cintia Cichelero	cintia_cichelero@hotmail.com	6110878797	X	X
+Cristofer L. F. De Castro	kitokasfer_07@hotmail.com	1086858196	X	X
+Débora Villa	debora.polaca@hotmail.com	4104127594	X	X
+Eduarda Pletsch	eduarda.pletsch2@gmail.com	9106513361	 	X
+Fabiana De Avila Oliveira	fabianaoliveira222@gmail.com	1097222697	X	X
+Felipe Cohsul Soares	pipecohsul@hotmail.com	1123630079	X	X
+Felipe Perera Dalcin	felipedalcin@live.com	1105575383	X	X
+Fernanda Zaro	fernanda4555@hotmail.com	1100340924	X	X
+Gabriel Bortoli	gabrielbortoli43@gmail.com	4124010069	X	X
+Gabriel Carloto Da Silva	carlotogabriel12@gmail.com	3107586087	X	X
+Géssica Busnelo	gessibusnelo@hotmail.com	7121154905	X	X
+Géssica Dietzmann	gessicadietzmann@yahoo.com.br	2107896553	X	X
+Giovani Henrique Metz	giumetz@hotmail.com	3097062925	X	X
+Giovanna Salvi	giovannaanselminisalvi@gmail.com	1115340364	X	X
+Gisele Lara Martins	martinsgisele5@gmail.com	7107422961	X	X
+Gislaine Comparsi	gislaine_comparsi@hotmail.com	2115487684	X	X
+Gustavo Cislaghi	cislaghigustavo@hotmail.com	3096514868	X	X
+Gustavo Heckler	gustavoheckler@hotmail.com	1100341088	X	X
+Izaias Mascena Machado	isaiasmachado125@gmail.com	3120976042	 	X
+Janice Kerber Heckler	janicekerber@yahoo.com.br	2069876338	X	X
+Jeane Santos Falcao	jeanesantos.falco@gmail.com	1098030331	X	X
+Jenifer Da Fonseca	Jeniferfonsecasouza@gmail.com	7113640689	X	X
+João Lucas Barbo Reffatti	jlbarboreffatti@gmail.com	8111036763	X	X
+Joice Tatiana Sulzbach	joice.sulzbach@hotmail.com	1105210338	X	X
+Juarez Rodrigues Dos Santos	juarezrodriguesdossantos@yahoo.com.br	9084504861	X	X
+Lara Thomazel	larathomazel@gmail.com	6098031013	X	X
+Larissa Victoria S Freire	larivictoriafreire01@hotmail.com	1124828284	X	X
+Letícia Fachinelli Campana	letifcampana@yahoo.com.br	3111631234	X	X
+Lucas José Ertel	lucasedel23@gmail.com	4112054756	 	X
+Lucas Luis Pletsch	lucas-pletsch1@hotmail.com	6099019207	X	X
+Luiz Fernando Vilhena Basso	luizbasso3112@gmail.com	3100340623	X	X
+Luiz Henrique Birck	lhbirck@hotmail.com	8110096362	X	X
+Madalena Cristina Kieling	lenakieling@hotmail.com	5064843104	X	X
+Maria Eduarda G Gonçalves	dudinha-goncalves@hotmail.com	1114155243	X	X
+Mariana Rossi	marianarossipmam@gmail.com	2123135242	X	X
+Mateus Luis Follmann	mateus.follmann@hotmail.com	8101909854	X	X
+Matheus Ramos Maccari	mrmaccari1@ucs.br	8117670078	X	X
+Milena Bock Dalmas	milenabock910@gmail.com	9120639886	X	X
+Milena Letícia Perera	milena-perera@hotmail.com	5111098728	X	X
+Milene Belleboni	milenebelleboni13@gmail.com	2118406772	X	 
+Millena Specht Frozza	millenafrozza00@gmail.com	7116592184	X	X
+Nicole Baccon Saleri	nicolesaleri@gmail.com	9119530872	X	X
+Patrícia Aparecida De Oliveira Pagliari	patriciapagliari@yahoo.com.br	1074615673	X	X
+Patricia Tomaz Tedeschi	patricia.tedeschi@hotmail.com	2095205031	 	X
+Rodrigo Lutz	rodrilutz@yahoo.com.br	5094218533	X	X
+Sabrina Flores De Azevedo	sabrinaazevedo97@hotmail.com	7118878516	X	X
+Taís Seibel	taisseibel@gmail.com	2113643651	X	X
+Tatiana Mossmann Leindecker	tati_leindecker@yahoo.com.br	9091457094	X	X
+Tatiane Kochhann	tatianekochhann@gmail.com	9113379383	X	X
+Thalia Rucks	thaliarucks@hotmail.com	6100015111	X	X
+Thomas Hammes	thomas.hammmes@hotmail.com	1122016049	X	X
+Tiago Frubel	tiaguinho_frubel@hotmail.com	1109141919	X	X
+William Pilger	pilger.will@gmail.com	8125646003	X	X
+Willian Gustavo Bauer	willianbauer@yahoo.com.br	9082015422	X	X
+Total de estudantes UCS - CARVI - Bento Gonçalves: 64
+
+Total de estudantes Noite: 131
+
+Total de estudantes Quarta-feira: 190
+
+Quinta-feira
+Manhã
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Ana Carolina Kanoffre Camargo	julianakanoffre@gmail.com	9113274601	X	X
+Daniela Klock Romio	klock_daniela@yahoo.com.br	6131780873	X	X
+Elen Patzlaff Da Silva	elensilva086@gmail.com	4121684064	X	X
+Isabel Doring Baranzeli	baranzeli_isabel@outlook.com	5129523832	X	X
+Luana Cislaghi Chaves	cislaghiluana52@gmail.com	4123148671	X	X
+Maria Elizabeth Visintainer	maria.e.visintainer001@gmail.com	7134742183	X	X
+Maria Elizabeth Visintainer	maria.e.visintainer001@gmail.com	7134742183	X	X
+Nicia R. Accorsi Gonçalves	niciaroberta@gmail.com	5123266388	X	X
+Roberta Mello Benini	beninijb@gmail.com	1125269876	X	X
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 9
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Suelen Haas	su_haas@hotmail.com	1115305136	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 1
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	X	 
+Camila Favaretto	camilafavaretto@outlook.com	1127969382	X	 
+Emannuel Simões Gasparetto	emannuel.gasparetto@gmail.com	2122267244	X	 
+Estela Moschetta Eidelwein	estelamoschetta@hotmail.com	6127169073	X	 
+Helen Crestani Slongo	helencslongo@gmail.com	1110912506	X	 
+Luana Vaz Da Silva De Souza	julianabetempsvaz@gmail.com	1123867689	X	 
+Marcelo Basso	marcelob2002@yahoo.com.br	5123975781	X	 
+Marieli Dall Acqua	marielidallacqua890@gmail.com	1116521574	X	 
+Sofia De Freitas Leitão	freitas.sofia15@gmail.com	6116441616	X	 
+Sofia Zancanaro Habeck	pcydimple@gmail.com	4132273832	X	 
+Victorio Battistello Faraco	victoriofaraco@gmail.com	7107896669	X	 
+Vinicius Lazzari	olivolazzari@hotmail.com	1118714128	X	 
+Willian Bergonsi	willian-bergonsi@hotmail.com	9100013425	X	 
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 13
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Jeferson Augusto Werle	jeferwerle@hotmail.com.br	7124077236	X	 
+Jonathan Pavan	jonathanpavan96@gmail.com	7116928511	X	 
+Maria Antonia Zem Rotava	mariarotava87@gmail.com	1114601014	X	 
+Ricardo Moreira Gomes	rikmgomes@gmail.com	7102384612	X	 
+Total de estudantes Método Medicina : 4
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Isadora Turatto Freitas	freitas.tisa@gmail.com	1122266511	X	X
+Mariana Audibert	audibertmariana@gmail.com	2113344135	X	X
+Total de estudantes Sapiens Espaço Educacional: 2
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Manhã: 29
+
+Tarde
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna Henicka Pontin	bpontin@gmail.com	3110260845	X	X
+Heloísa Cauduro	isa_helo.49@hotmail.com	3105930147	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 2
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Laura Müller	lauralmuller@hotmail.com	9118550293	X	X
+Pedro Eduardo Fischer Boeno	pedroeduardo445@gmail.com	1127969697	X	X
+Pedro Eduardo Fischer Boeno	pedroeduardo445@gmail.com	1127969697	X	X
+Total de estudantes Didático pré vestibular: 3
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	 	X
+Emannuel Simões Gasparetto	emannuel.gasparetto@gmail.com	2122267244	 	X
+Estela Moschetta Eidelwein	estelamoschetta@hotmail.com	6127169073	 	X
+Helen Crestani Slongo	helencslongo@gmail.com	1110912506	 	X
+Katiele Da Silva	katikatisilvatw@gmail.com	1126928728	X	X
+Luana Vaz Da Silva De Souza	julianabetempsvaz@gmail.com	1123867689	 	X
+Marcelo Basso	marcelob2002@yahoo.com.br	5123975781	 	X
+Marieli Dall Acqua	marielidallacqua890@gmail.com	1116521574	 	X
+Sofia De Freitas Leitão	freitas.sofia15@gmail.com	6116441616	 	X
+Sofia Zancanaro Habeck	pcydimple@gmail.com	4132273832	 	X
+Victorio Battistello Faraco	victoriofaraco@gmail.com	7107896669	 	X
+Vinicius Lazzari	olivolazzari@hotmail.com	1118714128	 	X
+Willian Bergonsi	willian-bergonsi@hotmail.com	9100013425	 	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 13
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	 
+Jeferson Augusto Werle	jeferwerle@hotmail.com.br	7124077236	 	X
+Jonathan Pavan	jonathanpavan96@gmail.com	7116928511	 	X
+Maria Antonia Zem Rotava	mariarotava87@gmail.com	1114601014	 	X
+Ricardo Moreira Gomes	rikmgomes@gmail.com	7102384612	 	X
+Total de estudantes Método Medicina : 5
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Mariana Audibert	audibertmariana@gmail.com	2113344135	 	X
+Total de estudantes Sapiens Espaço Educacional: 1
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Tarde: 24
+
+Vespertino 16:00
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Heloísa Cauduro	isa_helo.49@hotmail.com	3105930147	 	X
+Total de estudantes Cenecista - Bento Gonçalves: 1
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alexandro Morari	amorari1@ucs.br	9060606143	X	 
+Felipe Basso	felipebasso.basso@gmail.com	7120098954	X	X
+Fernanda Zaro	fernanda4555@hotmail.com	1100340924	X	X
+Izaias Mascena Machado	isaiasmachado125@gmail.com	3120976042	X	X
+Moisés Danieli	mosidanieli@gmail.com	1100014156	X	X
+Nicole Baccon Saleri	nicolesaleri@gmail.com	9119530872	X	 
+Raqueli Weschenfelder	raqueli_keli@hotmail.com	9117310186	X	X
+Suélen Aparecida Da Fontoura	suelen_fontoura@hotmail.com	4106155239	X	X
+Willian Gustavo Bauer	willianbauer@yahoo.com.br	9082015422	X	X
+Total de estudantes UCS - CARVI - Bento Gonçalves: 9
+
+Total de estudantes Vespertino 16:00: 10
+
+Vespertino 17:30
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Cenecista - Bento Gonçalves: 0
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Vespertino 17:30: 0
+
+Noite
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Elisandro Joel Albrecht	elisandro92@yahoo.com.br	2104223041	X	X
+Total de estudantes FACULDADE FISSUL: 1
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Henrique Tenedini	htenedini@gmail.com	2109420031	X	X
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 1
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Eliseu Canal	zeuz.canal@gmail.com	1102384375	X	X
+Felipe Ferranti	felipeferranti123@hotmail.com	4114036355	X	X
+Felipe Vicentini	felipe.vicentini2@gmail.com	4125514101	X	X
+Total de estudantes UCS - CARVI / ARCOVERDE: 3
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Daiane Gewehr	daiane.gewehr@hotmail.com	4118674896	X	X
+Dayana Soliman	dayasoliman@yahoo.com.br	5116225722	X	X
+Dayse Cousseau Rodrigues	dayse.24rodrigues@gmail.com	8127660457	X	X
+Gessica Herbert	gee_herbert@hotmail.com	6097285594	X	X
+Luana Gallina Baldasso	luanagallinabaldaso@yahoo.com.br	4100341661	X	X
+Morgana Benini	morganabenini@hotmail.com	1111546766	X	X
+Natália Camini Favretto	nataliacaminifavretto@gmail.com	3120217702	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 7
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alessandro Sonaglio	alesonaglio1@hotmail.com	9120040499	X	X
+Andressa Lusani	andressalusani@gmail.com	1114214586	X	X
+Cleia De Lima	cleia_delima@yahoo.com.br	3067950869	X	X
+Diogo Goncalves Da Silva	diogogonkalves97@gmail.com	4100863028	X	X
+Indiane Thums	indianethums13@gmail.com	1111391098	X	X
+Isabel Klein Chies	isa.chies@yahoo.com.br	1105575466	X	X
+Mara Rejane Morais Guerra	mrsmguerra@yahoo.com.br	5058768721	X	X
+Nelson Vinicius Cavalcante	nelsontuf33@gmail.com	20083379244	X	X
+Suzane Luiza Schuster Neuhaus	ssuzaneluiza@yahoo.com.br	7123885092	X	X
+Thalison Hiago Ferrari	thalisonhferrari@gmail.com	7128760217	X	X
+Vânia Regina Marx	vaniamarx9028@gmail.com	4100014606	X	X
+Wilian Deivis Ribas	wilian.ribas@yahoo.com.br	1122225665	X	X
+Total de estudantes FSG - Bento Gonçalves: 12
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alessandra Fontanive Chies	alessandrafc18@gmail.com	1120828031	X	X
+Anderson Zarpelon De Almeida	andersondealmeida97@gmail.com	2115915726	X	X
+Bianca Kaefer	bianca.kaefer13@gmail.com	7124506705	X	X
+Crystuel Angelo Da Costa	crystuel.dacosta@gmail.com	9123956865	X	X
+Douglas Dall Agnol	dodidall7@hotmail.com	7102213191	X	X
+Gabriel Santos Ribeiro	gabriel.santosribeiro02@gmail.com	1095977524	X	X
+Gilvan Guerra Carijo	gilvan.carijo@bol.com.br	8083839624	X	X
+Guilherme Henrique Werner	gui.werner123@gmail.com	1121684136	X	X
+Guilherme Milani	guilherme.milani94@gmail.com	1111881825	X	X
+Gustavo Henrique Pedralli	gustavohenriquepedralli@gmail.com	6125233962	X	X
+Gustavo Kinzel	guto_kinzel@live.com	8098423679	X	X
+Gustavo Misturini	gustavomisturini95@yahoo.com.br	2094650799	X	X
+Gustavo Pacini	gpacini51@gmail.com	1074601434	X	X
+Henrique Biberg Dupont	henriquedupont@outlook.com	8116790901	X	X
+Jean Carlo Boscaini	jeanbosca6@hotmail.com	7094645913	X	X
+Jean Carlo Rucks	j_rucks@hotmail.com	3107895181	X	X
+Joice Marini	joice-marini-1999@hotmail.com	9124012131	X	X
+Larissa Canal	canallarie@gmail.com	1113453375	X	X
+Leticia Villa	leticialvilla@gmail.com	3114087459	X	X
+Marcelo Augusto Grings	marcelogrings460@gmail.com	1120279375	X	X
+Mateus Girotto	girotto99@gmail.com	5116101329	X	X
+Michele Krindges Carniel	carniel2011@gmail.com	3117063424	X	X
+Milena Grolli	milenagrolli@hotmail.com	1125108462	X	X
+Nycolas Andrei Schafer	nycolasschafer@gmail.com	8124360201	X	X
+Rudinei Weschenfelder	rudiw2013@gmail.com	9118747626	X	X
+Suelen Silveira De Rodrigues	silveirasuelen546@gmail.com	5109801778	X	X
+Tyerri Carolo	tyerricarolo@hotmail.com	5115043274	X	X
+Willian Both Mossmann	willianmossmann47@gmail.com	2126701701	X	X
+Total de estudantes FTEC Bento Gonçalves: 28
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna C. Bender Caneppelle	bruna_camila_bender@yahoo.com.br	7126616601	X	X
+Eloise Cousseau Machry	eloisecousseau@gmail.com	1127991899	X	X
+Ingrid Eduarda Alves Menezes	ingrideduardaa@gmail.com	2126419461	X	X
+Karine Pradella	karinepradella13@gmail.com	1128676283	X	X
+Rafaela Kaefer	rafaelakaefer14@gmail.com	1118759065	X	X
+Renata S Moreira Rodrigues	renataeleandrorel@hotmail.com	1109458768	X	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 6
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	X
+Total de estudantes Método Medicina : 1
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Felipe Sauthier Gedoz	gedozfelipe7@gmail.com	4120217452	X	X
+Márcia Malvez Atuatti	marciamalvez78@gmail.com	5053483318	X	X
+Total de estudantes SENAC-Bento Gonçalves: 2
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Anderson William Freitas	willianrs_2011@hotmail.com	5107813726	X	X
+Cleison Da Fonseca	cleison.fonseca2930@gmail.com	1113716326	X	X
+Felipe Cassinelli	felipecasineli321@gmail.com	1129761779	X	X
+Total de estudantes SENAI-Bento Gonçalves: 3
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alexandro Morari	amorari1@ucs.br	9060606143	 	X
+Aline Zimmer	alyzimmer96@gmail.com	8111417021	X	X
+Anderson Ziglio	andersonziglio2303@gmail.com	3123487971	X	X
+André Garcia Rafaelli Rigoni	andrerigoni6@gmail.com	1100340445	X	X
+Andressa Scottá	andressa_07scotta@hotmail.com	1105934945	X	X
+Anelize Royer	anelizeroyer@bol.com.br	2124540441	X	X
+Angelica M. A. Mendes	anjomagagnin@hotmail.com	8093533993	X	X
+Augusto Klein	augusto_klein@hotmail.com	3085446684	X	X
+Bruna Bavarsco Perera	brunatperera@gmail.com	3118735269	X	X
+Caroline Benedett	benedettcaroline@gmail.com	6120516221	X	X
+Caroline Maria Emer	carolmariaemer@gmail.com	2123735314	X	X
+Cristofer L. F. De Castro	kitokasfer_07@hotmail.com	1086858196	X	X
+Daniela Girotto	danielagirotto1@gmail.com	3100014202	X	X
+Debora De Souza	debora.desouza@yahoo.com.br	7107896529	X	X
+Débora Villa	debora.polaca@hotmail.com	4104127594	X	X
+Eduarda Pletsch	eduarda.pletsch2@gmail.com	9106513361	X	X
+Fabiana De Avila Oliveira	fabianaoliveira222@gmail.com	1097222697	X	X
+Felipe Cohsul Soares	pipecohsul@hotmail.com	1123630079	X	X
+Felipe Perera Dalcin	felipedalcin@live.com	1105575383	X	X
+Gabriel Carloto Da Silva	carlotogabriel12@gmail.com	3107586087	X	X
+Gabriel Mazetti	mazetti_mazetti@hotmail.com	6111975394	X	X
+Gabriel Zorzan Zanuz	gabrielzanuz@yahoo.com.br	5109201731	X	X
+Gian Lucca Lazzaron Patzlaf	gianluccalp@hotmail.com	7114314284	X	X
+Gilson Luiz Demari Rosa	gilsonldr@hotmail.com	1049859471	X	X
+Gisele Lutz	giselelutz00@gmail.com	5122185365	X	X
+Gislaine Comparsi	gislaine_comparsi@hotmail.com	2115487684	X	X
+Guilherme Borsoi	gui.borsoi26@gmail.com	8126584138	X	X
+Guilherme R. Cohsul Borsoi	guilherme.borsoi@hotmail.com	9105934542	X	X
+Gustavo Cislaghi	cislaghigustavo@hotmail.com	3096514868	X	X
+Gustavo Demarchi	gustavod08@gmail.com	1097284309	X	X
+Gustavo Grespan Toffoli	toffoliguga@gmail.com	8122131058	X	X
+Idair Misturini	idamisturini@yahoo.com.br	8048603958	X	X
+Izaias Mascena Machado	isaiasmachado125@gmail.com	3120976042	 	X
+Jean Carlos Scherer Bender	bender.jean09@gmail.com	1111994727	X	X
+Jeane Santos Falcao	jeanesantos.falco@gmail.com	1098030331	X	X
+Jenifer Da Fonseca	Jeniferfonsecasouza@gmail.com	7113640689	X	X
+Jéssica Hensel Fink	jessicahfink@hotmail.com	1110543525	X	X
+Joice Klein	joice.klein7@hotmail.com	2100013751	X	X
+Joice Tatiana Sulzbach	joice.sulzbach@hotmail.com	1105210338	X	X
+Juarez Rodrigues Dos Santos	juarezrodriguesdossantos@yahoo.com.br	9084504861	X	X
+Júlia Biondo	julia-biberg@hotmail.com	1124327287	X	X
+Júlia Pradella	julia.pradella@hotmail.com	6122268078	X	X
+Lara Thomazel	larathomazel@gmail.com	6098031013	X	X
+Larissa Victoria S Freire	larivictoriafreire01@hotmail.com	1124828284	X	X
+Leonardo Deitos Ely	leoely08@hotmail.com	8121141686	X	X
+Letícia Fachinelli Campana	letifcampana@yahoo.com.br	3111631234	X	X
+Luiz Henrique Birck	lhbirck@hotmail.com	8110096362	X	X
+Madalena Cristina Kieling	lenakieling@hotmail.com	5064843104	X	X
+Maitchel Baldasso	maitchel.baldasso@gmail.com	7123676137	X	X
+Maria Eduarda G Gonçalves	dudinha-goncalves@hotmail.com	1114155243	X	X
+Mariana Rossi	marianarossipmam@gmail.com	2123135242	X	X
+Mariane Schumacher	marischumacher90@gmail.com	8101374455	X	X
+Maridiane Lugaresi	maridiane.lugaresi@hotmail.com	9112154217	X	X
+Marilei Schauren Cherutti	marievandecherutti@gmail.com	1086717095	X	X
+Mateus Zarpelon	theus_mateus@hotmail.com	5096514566	X	X
+Matheus Ramos Maccari	mrmaccari1@ucs.br	8117670078	X	X
+Maurício Dalmas Graf	mauriciograf01@gmail.com	6110669527	X	X
+Milena Bock Dalmas	milenabock910@gmail.com	9120639886	X	X
+Milene Belleboni	milenebelleboni13@gmail.com	2118406772	X	 
+Millena Specht Frozza	millenafrozza00@gmail.com	7116592184	X	X
+Moisés Danieli	mosidanieli@gmail.com	1100014156	X	X
+Nailane Maria Benelli	nailane.benelli@yahoo.com.br	1119652798	X	X
+Nicole Baccon Saleri	nicolesaleri@gmail.com	9119530872	 	X
+Patrícia Aparecida De Oliveira Pagliari	patriciapagliari@yahoo.com.br	1074615673	X	X
+Patricia Tomaz Tedeschi	patricia.tedeschi@hotmail.com	2095205031	X	X
+Raquel Dornelles	rakednl@hotmail.com	5066568981	X	X
+Rocheli Muller	rocheli.xuxu@gmail.com	4104223369	X	X
+Rodolfo Taufer	rodi_rt@hotmail.com	8100341406	X	X
+Tainá Klassen Weirich	klassentaina@gmail.com	1103206544	X	X
+Taís Seibel	taisseibel@gmail.com	2113643651	X	X
+Tatiana Mossmann Leindecker	tati_leindecker@yahoo.com.br	9091457094	X	X
+Thomas Hammes	thomas.hammmes@hotmail.com	1122016049	X	X
+Vinicius Da Silva	vinisilva21@yahoo.com.br	4120610029	X	X
+Total de estudantes UCS - CARVI - Bento Gonçalves: 73
+
+Total de estudantes Noite: 137
+
+Total de estudantes Quinta-feira: 200
+
+Sexta-feira
+Manhã
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Ana Carolina Kanoffre Camargo	julianakanoffre@gmail.com	9113274601	X	X
+Daniela Klock Romio	klock_daniela@yahoo.com.br	6131780873	X	X
+Elen Patzlaff Da Silva	elensilva086@gmail.com	4121684064	X	X
+Isabel Doring Baranzeli	baranzeli_isabel@outlook.com	5129523832	X	X
+Luana Cislaghi Chaves	cislaghiluana52@gmail.com	4123148671	X	X
+Maria Elizabeth Visintainer	maria.e.visintainer001@gmail.com	7134742183	X	X
+Maria Elizabeth Visintainer	maria.e.visintainer001@gmail.com	7134742183	X	X
+Nicia R. Accorsi Gonçalves	niciaroberta@gmail.com	5123266388	X	X
+Roberta Mello Benini	beninijb@gmail.com	1125269876	X	X
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 9
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Suelen Haas	su_haas@hotmail.com	1115305136	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 1
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	X	X
+Camila Favaretto	camilafavaretto@outlook.com	1127969382	X	X
+Emannuel Simões Gasparetto	emannuel.gasparetto@gmail.com	2122267244	X	X
+Estela Moschetta Eidelwein	estelamoschetta@hotmail.com	6127169073	X	 
+Helen Crestani Slongo	helencslongo@gmail.com	1110912506	X	X
+Luana Vaz Da Silva De Souza	julianabetempsvaz@gmail.com	1123867689	X	X
+Marcelo Basso	marcelob2002@yahoo.com.br	5123975781	X	 
+Marieli Dall Acqua	marielidallacqua890@gmail.com	1116521574	X	X
+Sofia De Freitas Leitão	freitas.sofia15@gmail.com	6116441616	X	X
+Sofia Zancanaro Habeck	pcydimple@gmail.com	4132273832	X	X
+Vinicius Lazzari	olivolazzari@hotmail.com	1118714128	X	 
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 11
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Jeferson Augusto Werle	jeferwerle@hotmail.com.br	7124077236	X	 
+Jonathan Pavan	jonathanpavan96@gmail.com	7116928511	X	 
+Maria Antonia Zem Rotava	mariarotava87@gmail.com	1114601014	X	 
+Ricardo Moreira Gomes	rikmgomes@gmail.com	7102384612	X	 
+Total de estudantes Método Medicina : 4
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Isadora Turatto Freitas	freitas.tisa@gmail.com	1122266511	X	X
+Mariana Audibert	audibertmariana@gmail.com	2113344135	X	X
+Total de estudantes Sapiens Espaço Educacional: 2
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Manhã: 27
+
+Tarde
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna Henicka Pontin	bpontin@gmail.com	3110260845	X	X
+Heloísa Cauduro	isa_helo.49@hotmail.com	3105930147	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 2
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Laura Müller	lauralmuller@hotmail.com	9118550293	X	X
+Pedro Eduardo Fischer Boeno	pedroeduardo445@gmail.com	1127969697	X	X
+Pedro Eduardo Fischer Boeno	pedroeduardo445@gmail.com	1127969697	X	X
+Total de estudantes Didático pré vestibular: 3
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	 	X
+Camila Favaretto	camilafavaretto@outlook.com	1127969382	 	X
+Estela Moschetta Eidelwein	estelamoschetta@hotmail.com	6127169073	 	X
+Katiele Da Silva	katikatisilvatw@gmail.com	1126928728	X	X
+Marcelo Basso	marcelob2002@yahoo.com.br	5123975781	 	X
+Victorio Battistello Faraco	victoriofaraco@gmail.com	7107896669	X	X
+Vinicius Lazzari	olivolazzari@hotmail.com	1118714128	 	X
+Willian Bergonsi	willian-bergonsi@hotmail.com	9100013425	X	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 8
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	 
+Jeferson Augusto Werle	jeferwerle@hotmail.com.br	7124077236	 	X
+Jonathan Pavan	jonathanpavan96@gmail.com	7116928511	 	X
+Maria Antonia Zem Rotava	mariarotava87@gmail.com	1114601014	 	X
+Ricardo Moreira Gomes	rikmgomes@gmail.com	7102384612	 	X
+Total de estudantes Método Medicina : 5
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Mariana Audibert	audibertmariana@gmail.com	2113344135	 	X
+Total de estudantes Sapiens Espaço Educacional: 1
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Tarde: 19
+
+Vespertino 16:00
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Heloísa Cauduro	isa_helo.49@hotmail.com	3105930147	 	X
+Total de estudantes Cenecista - Bento Gonçalves: 1
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Cleber Junior Bonetti	bonetticleber@gmail.com	9097063318	X	X
+Deise Zwirtes	zwirtesdeise@yahoo.com.br	6100007291	X	X
+Jeane Santos Falcao	jeanesantos.falco@gmail.com	1098030331	X	 
+Mateus Luis Follmann	mateus.follmann@hotmail.com	8101909854	X	X
+Nicole Baccon Saleri	nicolesaleri@gmail.com	9119530872	X	 
+Paloma Sangali Machado	palomasangalimachado@yahoo.com.br	5118444644	X	 
+Sandrine Willvvock Peres Garcia	sandrinegarcia04@yahoo.com.br	6108586717	X	 
+Total de estudantes UCS - CARVI - Bento Gonçalves: 7
+
+Total de estudantes Vespertino 16:00: 8
+
+Vespertino 17:30
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Cenecista - Bento Gonçalves: 0
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Vespertino 17:30: 0
+
+Noite
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Isadora Mocellin	mocellinisadora@gmail.com	3119883985	X	X
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 1
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Marco Antônio Palharini	marcopalha@hotmail.com	7104218131	X	X
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 1
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Andressa Morari Canal	andressa.m.canal@gmail.com	8117756562	X	X
+Daiane Gewehr	daiane.gewehr@hotmail.com	4118674896	X	X
+Gessica Herbert	gee_herbert@hotmail.com	6097285594	X	X
+Milena Santacatarina	milenacolorada2008@hotmail.com	9115513617	X	X
+Suelen Haas	su_haas@hotmail.com	1115305136	X	X
+Total de estudantes Cenecista - Bento Gonçalves: 5
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Andressa Lusani	andressalusani@gmail.com	1114214586	X	X
+Brenda Baldasso Cazanatto	brendabcazanatto@gmail.com	4121837639	X	X
+Camila Busnelo	cbusnelo@ymail.com	4121154159	X	X
+Diogo Goncalves Da Silva	diogogonkalves97@gmail.com	4100863028	X	X
+Isabel Klein Chies	isa.chies@yahoo.com.br	1105575466	X	X
+Leila Cristine Muller	leila_cristinemuller@yahoo.com	9120101267	X	X
+Mara Rejane Morais Guerra	mrsmguerra@yahoo.com.br	5058768721	X	X
+Natanael Rebelatto Comparsi	natanaelrc.2012@gmail.com	1126674678	X	X
+Paloma Piccoli	palomapiccoli2020@gmail.com	1115677161	X	X
+Suzane Luiza Schuster Neuhaus	ssuzaneluiza@yahoo.com.br	7123885092	X	X
+Total de estudantes FSG - Bento Gonçalves: 10
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alessandra Fontanive Chies	alessandrafc18@gmail.com	1120828031	X	X
+Ana Paula Consalter	ana_consalter@hotmail.com	6124303592	X	X
+Anderson Anschau	ander.anschau@gmail.com	1115811067	X	X
+Bianca Kaefer	bianca.kaefer13@gmail.com	7124506705	X	X
+Cristiane Chies	cristiane.chies@telasul.com.br	8074600134	X	X
+Douglas Dall Agnol	dodidall7@hotmail.com	7102213191	X	X
+Edeana A. Pedrotti Franzosi	edeanafranzosi@yahoo.com.br	1111389332	X	X
+Fabiana Pedrotti	fabiana-pedrotti@hotmail.com	5129339635	X	X
+Fabiana Pedrotti	fabiana-pedrotti@hotmail.com	5129339635	X	X
+Felipe Belleboni Benini	opeco201@gmail.com	3122128501	X	X
+Fernando Pozzebon	fernando_pozzebon7@hotmail.com	7097284561	X	X
+Franciele Milani	franciele.milani@hotmail.com	9108585358	X	X
+Gabriel Santos Ribeiro	gabriel.santosribeiro02@gmail.com	1095977524	X	X
+Gustavo Kinzel	guto_kinzel@live.com	8098423679	X	X
+Gustavo Misturini	gustavomisturini95@yahoo.com.br	2094650799	X	X
+João Barcela	joaobarcela005@hotmail.com	8121291721	X	X
+Larissa Canal	canallarie@gmail.com	1113453375	X	X
+Leticia Villa	leticialvilla@gmail.com	3114087459	X	X
+Luana Da Luz Käfer	luana_lkafer@hotmail.com	9084599027	X	X
+Marcelo Augusto Grings	marcelogrings460@gmail.com	1120279375	X	X
+Michele Krindges Carniel	carniel2011@gmail.com	3117063424	X	X
+Milena Cousseau	milenaccou@gmail.com	9123739154	X	X
+Milena Cousseau	milenaccou@gmail.com	9123739154	X	X
+Total de estudantes FTEC Bento Gonçalves: 23
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna C. Bender Caneppelle	bruna_camila_bender@yahoo.com.br	7126616601	X	X
+Eloise Cousseau Machry	eloisecousseau@gmail.com	1127991899	X	X
+Ingrid Eduarda Alves Menezes	ingrideduardaa@gmail.com	2126419461	X	X
+Karine Pradella	karinepradella13@gmail.com	1128676283	X	X
+Moyses Volpatto A. Machado	moi.9.machado@gmail.com	1094995857	X	X
+Rafaela Kaefer	rafaelakaefer14@gmail.com	1118759065	X	X
+Renata S Moreira Rodrigues	renataeleandrorel@hotmail.com	1109458768	X	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 7
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	X
+Total de estudantes Método Medicina : 1
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Felipe Sauthier Gedoz	gedozfelipe7@gmail.com	4120217452	X	X
+Total de estudantes SENAC-Bento Gonçalves: 1
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Anderson William Freitas	willianrs_2011@hotmail.com	5107813726	X	X
+Cleison Da Fonseca	cleison.fonseca2930@gmail.com	1113716326	X	X
+Felipe Cassinelli	felipecasineli321@gmail.com	1129761779	X	X
+Total de estudantes SENAI-Bento Gonçalves: 3
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Alexandro Morari	amorari1@ucs.br	9060606143	X	X
+Aline Stein	aline.stein@hotmail.com.br	7116005112	X	X
+Aline Zimmer	alyzimmer96@gmail.com	8111417021	X	X
+Carmela Sebastiany	csebastiany@ucs.br	5089540479	X	X
+Caroline Belleboni	caroline.belleboni@gmail.com	9126928457	X	X
+Caroline Benedett	benedettcaroline@gmail.com	6120516221	X	X
+Caroline Maria Emer	carolmariaemer@gmail.com	2123735314	X	X
+Daniela Girotto	danielagirotto1@gmail.com	3100014202	X	X
+Darlan Luis Corrales	darlanluisss@gmail.com	2106015387	X	X
+Débora Villa	debora.polaca@hotmail.com	4104127594	X	X
+Eduarda Pletsch	eduarda.pletsch2@gmail.com	9106513361	X	X
+Elizeu Dias De Almeida	elizeudiasalmeida@hotmail.com	2121141341	X	X
+Felipe Perera Dalcin	felipedalcin@live.com	1105575383	X	X
+Geisebel Schmidt	geisebel.schmidt@gmail.com	1085446498	X	X
+Géssica Busnelo	gessibusnelo@hotmail.com	7121154905	X	X
+Grasiela Bombassaro	grasielab2008@hotmail.com	1065630351	X	X
+Gustavo Demarchi	gustavod08@gmail.com	1097284309	X	X
+Igor Valandro	igorvalandro@yahoo.com.br	1088782311	X	X
+Izaias Mascena Machado	isaiasmachado125@gmail.com	3120976042	X	X
+Janice Kerber Heckler	janicekerber@yahoo.com.br	2069876338	X	X
+Jean Carlos Scherer Bender	bender.jean09@gmail.com	1111994727	X	X
+Jeane Santos Falcao	jeanesantos.falco@gmail.com	1098030331	X	X
+Jenifer Da Fonseca	Jeniferfonsecasouza@gmail.com	7113640689	X	X
+Jéssica Hensel Fink	jessicahfink@hotmail.com	1110543525	X	X
+Júlia Biondo	julia-biberg@hotmail.com	1124327287	X	X
+Lara Thomazel	larathomazel@gmail.com	6098031013	X	X
+Letícia Fachinelli Campana	letifcampana@yahoo.com.br	3111631234	X	X
+Lucas Luis Pletsch	lucas-pletsch1@hotmail.com	6099019207	X	X
+Madalena Cristina Kieling	lenakieling@hotmail.com	5064843104	X	X
+Maria Eduarda G Gonçalves	dudinha-goncalves@hotmail.com	1114155243	X	X
+Mariana Rossi	marianarossipmam@gmail.com	2123135242	X	X
+Mariane Schumacher	marischumacher90@gmail.com	8101374455	X	X
+Milene Benedetti Da Fonseca	milene58bf@gmail.com	8126267072	X	X
+Millena Specht Frozza	millenafrozza00@gmail.com	7116592184	X	X
+Naquieli F. Favero	naquieli2011@hotmail.com	1100341691	X	X
+Nicole Baccon Saleri	nicolesaleri@gmail.com	9119530872	X	X
+Paloma Sangali Machado	palomasangalimachado@yahoo.com.br	5118444644	 	X
+Patrícia Aparecida De Oliveira Pagliari	patriciapagliari@yahoo.com.br	1074615673	X	X
+Pietro Olivio M. Sganderla	ice.aventura@hotmail.com	8100339889	X	X
+Rodrigo Lutz	rodrilutz@yahoo.com.br	5094218533	X	X
+Sabrina Flores De Azevedo	sabrinaazevedo97@hotmail.com	7118878516	X	X
+Sandra Regina Turcato Cadorin	srtcador@yahoo.com.br	8084698409	X	X
+Sandrine Willvvock Peres Garcia	sandrinegarcia04@yahoo.com.br	6108586717	 	X
+Suélen Aparecida Da Fontoura	suelen_fontoura@hotmail.com	4106155239	X	X
+Tainá Klassen Weirich	klassentaina@gmail.com	1103206544	X	X
+Total de estudantes UCS - CARVI - Bento Gonçalves: 45
+
+Total de estudantes Noite: 97
+
+Total de estudantes Sexta-feira: 151
+
+Sábado
+Manhã
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Cenecista - Bento Gonçalves: 0
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Laura Müller	lauralmuller@hotmail.com	9118550293	X	X
+Total de estudantes Didático pré vestibular: 1
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Laura Martins Visintainer De Oliveira Chesini	lauravisintainer@hotmail.com	1106919135	X	X
+Total de estudantes FTEC Bento Gonçalves: 1
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Brenda Luisa Dupont Sauthier	brendaluisads@gmail.com	1113882672	X	 
+Helen Crestani Slongo	helencslongo@gmail.com	1110912506	X	X
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 2
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Debora Carvalho Pinto	debora.carvalhop15@gmail.com	1115295477	X	X
+Total de estudantes Método Medicina : 1
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Mariana Audibert	audibertmariana@gmail.com	2113344135	X	X
+Total de estudantes Sapiens Espaço Educacional: 1
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Bruna Imperatori	imperatori.ba@gmail.com	9122360705	X	X
+Izaias Mascena Machado	isaiasmachado125@gmail.com	3120976042	X	X
+Marisa Gonçalves Nunes	marisa.nunesk@gmail.com	2063658112	X	X
+Patrícia Aparecida De Oliveira Pagliari	patriciapagliari@yahoo.com.br	1074615673	X	X
+Total de estudantes UCS - CARVI - Bento Gonçalves: 4
+
+Total de estudantes Manhã: 10
+
+Tarde
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Cenecista - Bento Gonçalves: 0
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Tarde: 0
+
+Vespertino 16:00
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Cenecista - Bento Gonçalves: 0
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Vespertino 16:00: 0
+
+Vespertino 17:30
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Cenecista - Bento Gonçalves: 0
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Vespertino 17:30: 0
+
+Noite
+FACULDADE CENECISTA - Arcoverde
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE CENECISTA - Arcoverde: 0
+
+FACULDADE FISSUL
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FACULDADE FISSUL: 0
+
+FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC - FACULDADE DE TECNOLOGIA - ARCOVERDE: 0
+
+UCS - CARVI / ARCOVERDE
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI / ARCOVERDE: 0
+
+Esc. Est. Assunta Fortini - Barão
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Esc. Est. Assunta Fortini - Barão: 0
+
+Cenecista - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Cenecista - Bento Gonçalves: 0
+
+Didático pré vestibular
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Didático pré vestibular: 0
+
+FSG - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FSG - Bento Gonçalves: 0
+
+FTEC Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes FTEC Bento Gonçalves: 0
+
+IFRS - Inst Fed do RS - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes IFRS - Inst Fed do RS - Bento Gonçalves: 0
+
+Método Medicina
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Método Medicina : 0
+
+Sapiens Espaço Educacional
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes Sapiens Espaço Educacional: 0
+
+SENAC-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAC-Bento Gonçalves: 0
+
+SENAI-Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes SENAI-Bento Gonçalves: 0
+
+UCS - CARVI - Bento Gonçalves
+Nome	E-mail	RG	Ida	Volta
+Total de estudantes UCS - CARVI - Bento Gonçalves: 0
+
+Total de estudantes Noite: 0

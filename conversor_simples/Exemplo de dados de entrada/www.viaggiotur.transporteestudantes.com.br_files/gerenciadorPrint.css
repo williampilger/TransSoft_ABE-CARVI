@@ -1,0 +1,716 @@
+/*
+*	Por Cure Criativa em março de 2009
+*/
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	color:#353535;
+	
+}
+body, td, th{
+	font:10px/16px Verdana;
+}
+h1,
+.logo,
+.tableList a.icon{
+	display:block;
+	overflow:hidden;
+	text-indent:-9000px;
+}
+a.icon{
+}
+.icons a.icon{
+	float:left;
+	font-size:11px;
+	line-height:24px;
+	padding:0 5px 0 26px;
+	margin-right:10px;
+	background-color:#E5E5E5;
+}
+.icons a.icon:hover{
+	background-color:#DADADA;
+}
+a.iInsert{background-position:0 0;}
+a.iMain{background-position:0 -24px;}
+a.iSecond{background-position:0 -48px;}
+a.iChange{background-position:-200px -72px;}
+a.iDelete{background-position:-200px 0;}
+a.iUp{background-position:-200px -24px;}
+a.iDown{background-position:-200px -48px;}
+
+.logo{
+}
+h1, h2, h3, h4{
+	font-family:"Trebuchet MS", Verdana;
+}
+ul li{list-style:none;}
+a{
+	color:#666;
+	outline:none;
+	text-decoration:none;
+}
+a:hover{color:#4F4B4A;}
+a img{border:none;}
+/* FORM */
+fieldset{
+	border:none;
+}
+span.label, label{
+	cursor:pointer;
+	display:block;
+}
+.field{
+	font:13px "Trebuchet MS";
+	color:#333;
+}
+.clear{
+	height:1px;
+	overflow:hidden;
+	margin-top:-1px;
+	clear:both;
+}
+
+/* ***********************
+	MAIN
+*********************** */
+#main{
+	margin:0 auto;
+	text-align:left;
+	width:960px;
+}
+#index #main{
+	background:none;
+	height:530px;
+	left:50%;
+	margin-top:-265px;
+	margin-left:-480px;
+	position:absolute;
+	top:50%;
+}
+
+/* ***********************
+	TOP
+*********************** */
+#top{
+	height:140px;
+}
+#index #top{
+	background:none;
+}
+#top h1, 
+#top h1 a{
+	display:block;
+	height:102px;
+	width:168px;
+}
+#top h1{
+	float:left;
+	display:inline; /* ie hack */
+	margin-top:15px;
+	margin-left:26px;
+}
+#top h2{
+	display:none;
+}
+#index #top h1{
+	margin-left:60px;
+}
+#index #top h2{
+	color:#ADADAD;
+	display:block;
+	float:left;
+	font-size:16px;
+	line-height:20px;
+	margin:50px 0 0 60px;
+	width:250px;
+}
+#top .navigation{
+	display:block;
+	float:right;
+	height:30px;
+	margin-right:10px;
+}
+#top .navigation p, 
+#top .navigation a{
+	float:left;
+}
+#top .navigation p{
+	line-height:30px;
+	margin-right:16px;
+	text-align:right;
+}
+#top .navigation a{
+	color:#3D3937;
+	font-weight:bold;
+	height:30px;
+	line-height:25px;
+	text-align:center;
+	width:47px;
+}
+#top .navigation a.home{background-position:0 0;}
+#top .navigation a.home:hover{background-position:0 -30px;}
+#top .navigation a.close{background-position:-47px 0; color:#FFFFFF;}
+#top .navigation a.close:hover{background-position:-47px -30px;}
+
+
+/* ***********************
+	MENU, CONTENT
+*********************** */
+#menu,
+#content{
+	float:left;
+	display:inline; /* ie hack */
+	padding-top:15px;
+}
+
+/* ***********************
+	MENU
+*********************** */
+#menu{
+	background:#fff;
+	margin:0 15px;
+	width:165px;
+}
+#menu h2,
+#menu li{
+	margin-bottom:2px;
+}
+#menu h2{
+	font-size:13px;
+	line-height:30px;
+	text-indent:10px;
+}
+#menu h2.add{
+	background-position:0 -30px;
+	color:#fff;
+}
+#menu li{
+	font-weight:bold;
+}
+#menu li a{
+	background:#E5E5E5;
+	color:#746C69;
+	display:block;
+	line-height:26px;
+	text-indent:10px;
+	width:165px; /* ie hack */
+}
+#menu li a:hover{
+	background:#DADADA;
+	color:#4F4B4A;
+}
+#menu li.select a{
+}
+
+/* ***********************
+	CONTENT
+*********************** */
+#content{
+	width:750px;
+}
+#index #content{
+	float:none;
+	display:block;
+	margin-left:384px;
+	width:192px;
+}
+#content h2{
+	font-size:30px;
+	letter-spacing:-2px;
+	line-height:50px;
+	text-indent:25px;
+}
+#content p.error{
+	color:#900;
+	font-size:12px;
+	font-weight:bold;
+	margin:20px 0 170px 0;
+	text-align:center;
+}
+#content #msg0,
+#content #msg1{
+	margin-top:15px;
+}
+#content #msg0 ul,
+#content #msg1 ul{
+	padding:8px 10px;
+}
+#content #msg0 ul li
+#content #msg1 ul li{
+	line-height:18px;
+}
+#content #msg0 ul{background:#FFD2D2; color:#900;}
+#content #msg1 ul{background:#DADFB5; color:#535F00;}
+
+#index #content #msg1{
+	height:50px;
+	text-align:center;
+}
+
+/* ***********************
+	PANEL (LIST)
+*********************** */
+#panel{
+	margin-top:15px;
+	height:25px; /*Opera*/
+}
+/* ICONS */
+#panel .icons{
+	float:left;
+	width:550px;
+}
+#panel .icons a.iInsert{
+	font-weight:bold;
+	margin-right:25px;
+}
+
+/* SEARCH */
+#panel .search{
+	float:right;
+}
+#panel .search .field,
+#panel .search button{
+	float:left;
+}
+#panel .search .field{
+	border: 1px solid #ccc;
+	margin:1px 5px 0 0;
+	padding:1px 0;
+	width:100px;
+}
+
+/* ***********************
+	TABLE LIST
+*********************** */
+.tableList{
+	border-collapse:collapse;
+	margin-top:15px;
+	width:748px;
+}
+#registre fieldset .tableList{
+	margin:0 0 15px 15px;
+	width:336px;
+}
+table.extend{
+	margin-bottom:120px;
+}
+.tableList th,
+.tableList td{
+	border:2px solid #FFF;
+}
+.tableList th{
+	background:#E5E5E5;
+	color:#666;
+	font-size:11px;
+	line-height:24px;
+	text-align:center;
+}
+.tableList th.icon{
+	width:60px;
+}
+.tableList td{
+	background:#F4F4F4;
+	padding:4px;
+	text-align:center;
+}
+/* ORDER */
+.tableList a.order{
+	display:block;
+}
+.tableList a.order:hover{
+	background:#DADADA;
+}
+.tableList a.order span{
+	padding-right:16px;
+}
+.tableList a.down span{background-position:right 0;}
+.tableList a.downOK span{background-position:right -12px;}
+.tableList a.upOK span{background-position:right -24px;}
+
+/* ICONES */
+.tableList a.icon{
+	height:28px;
+	margin:auto;
+	width:52px;
+}
+.tableList a.iChange{background-position:0 -72px;}
+.tableList a.iChange:hover{background-position:0 -100px;}
+.tableList a.iDelete{background-position:-52px -72px;}
+.tableList a.iDelete:hover{background-position:-52px -100px;}
+.tableList a.iView{background-position:-104px -72px;}
+.tableList a.iView:hover{background-position:-104px -100px;}
+
+/* ***********************
+	REGISTRE
+*********************** */
+h3{
+	background:#777;
+	color:#FFF;
+	font-size:13px;
+	margin-top:15px;
+	line-height:30px;
+	text-indent:10px;
+}
+#registre #editMsg ul{
+	background:#FFD2D2;
+	margin-top:15px;
+	padding:8px 10px;
+}
+#registre #editMsg ul li{
+	color:#900;
+	line-height:18px;
+}
+#registre fieldset{
+	background:#F4F4F4;
+	float:left;
+	margin-top:15px;
+	width:367px;
+}
+#registre fieldset.right{float:right;}
+#registre fieldset p.error{
+	margin-bottom:0;
+}
+#registre h4{
+	background:#E5E5E5;
+	font-size:11px;
+	line-height:28px;
+	margin-bottom:15px;
+	text-indent:10px;
+}
+#registre h4.space{
+	border-top:15px solid #FFF;
+}
+#registre hr{
+	border:none;
+	border-bottom:2px solid #fff;
+	margin-bottom:10px;
+}
+#registre p{
+	height:54px;
+	padding:0 15px;
+}
+#registre p.icons{
+	height:39px;
+}
+#registre #images li{
+	position:relative;
+}
+#registre p.info{
+	height:auto;
+	margin-bottom:15px;
+}
+#registre label span,
+#registre span.label span{
+	color:#8F8F8F;
+}
+#registre .field{
+	background:#FFF;
+	border:1px solid #ccc;	
+	font-weight:bold;
+	float:left;
+	padding:2px;
+}
+#registre .field-file{
+	float:left;
+	height:22px;
+	line-height:20px;
+	width:330px;
+}
+#registre select.field{padding:0;}
+#registre span.field{
+	background:none;
+	border:none;
+}
+#registre .gg{width:330px;}
+#registre textarea.gg{height:100px;}
+#registre select.gg{width:336px;}
+#registre .g{width:200px;}
+#registre .m{width:155px;}
+#registre .mp{width:90px;}
+#registre .p{width:30px;}
+#registre .pp{width:20px;}
+
+
+#registre span.legend{
+	float:left;
+	font-size:13px;
+	line-height:26px;
+	margin-left:5px;
+}
+
+#registre .editor{
+	padding:0 0 15px 15px;
+}
+#registre .editor textarea{
+	width:334px;
+}
+
+#registre .p-gg{height:136px;}
+
+#registre p.side{
+	float:left;
+	padding-right:0;
+}
+#registre p.m{width:161px;}
+#registre p.p{width:36px;}
+
+#registre p.check{
+	height:30px;
+}
+#registre p.check *{
+	float:left;
+}
+#registre p.check label{
+	margin-left:4px;
+	margin-top:3px;
+}
+#registre p.check input{
+	height:20px;
+	width:20px;
+}
+#registre p.footer{
+	background:#F4F4F4;
+	height:34px;
+	margin-top:15px;
+	padding-right:3px;
+}
+#registre p.footer .submit,
+#registre p.footer .button{
+	float:right;
+	height:24px;
+	margin:5px 2px;
+}
+#registre p.footer .submit{
+	font-weight:bold;
+}
+
+#registre .image-warning{
+	position:relative;
+	z-index:1;
+}
+#registre .image-warning span{
+	background:#FFF;
+	display:block;
+	left:25px;
+	padding:6px;
+	position:absolute;
+	top:10px;
+}
+#registre .image,
+#registre .file{
+	margin:25px;
+}
+#registre .image img{
+	float:left;
+}
+#registre .image .icons,
+#registre .file .icons{
+	float:left;
+}
+#registre .image .icon,
+#registre .file .icon{
+	margin:0 0 10px 10px;
+}
+#registre .file .info{
+	float:left;
+	width:200px;
+}
+#registre .file .icons{
+	width:110px;
+}
+#registre .image-delete,
+#registre .file-delete{
+}
+#registre .image-delete img{
+	filter:alpha(opacity=30);
+	opacity:.30;
+}
+
+/* WAIT */ 
+#wait{
+	padding:100px 0;
+	text-align:center;
+}
+
+/* INDEX */
+#index #registre{
+	height:175px;
+}
+#index #registre fieldset,
+#index #registre .footer{
+	background:none;
+	width:auto;
+}
+#index #registre fieldset{
+	margin-top:0;
+}
+#index #registre .footer{
+	margin-top:0;
+	padding-right:15px;
+}
+/* ***********************
+	NAVIGATION & PAGINATION
+*********************** */
+#entrance #navigation{
+	display:none;
+}
+#navigation{
+	height:35px;
+}
+#navigation .util ul,
+#navigation .util li{
+	float:left; /* ie hack */
+}
+#navigation .util a.icon,
+#navigation #pagination *{
+	background-color:#E5E5E5;
+	float:left;
+	line-height:20px;
+	margin-top:15px;
+	padding:0 6px;
+}
+#navigation .util a.icon,
+#navigation #pagination a.icon{
+	padding-left:16px;
+}
+#navigation .util a.icon:hover,
+#navigation #pagination a:hover{
+	background-color:#DADADA;
+}
+
+#navigation .iBack{background-position:0 -128px; margin-right:4px;}
+#navigation .iPrev{background-position:0 -128px;}
+#navigation .iNext{background-position:right -128px;}
+#navigation .iFirst{background-position:0 -148px;}
+#navigation .iLast{background-position:right -148px;}
+#navigation .iTop{background-position:0 -168px;}
+
+#navigation #pagination{
+	float:right;
+	text-align:right;
+}
+#navigation #pagination *{
+	margin-left:4px;
+}
+#navigation #pagination span{
+	background:#5F5F5F;
+	color:#FFF;
+	font-weight:bold;
+}
+#navigation #pagination a.iNext,
+#navigation #pagination a.iLast{
+	padding-left:6px;
+	padding-right:16px;
+}
+
+/* ***********************
+	FOOTER
+*********************** */
+#footer{
+	clear:both;
+	height:135px;
+}
+#footer *{
+	float:left;
+	display:inline;/* ie hack */
+}
+#footer .logo{
+	background-position:0 -110px;
+	height:60px;
+	margin-top:50px;
+	margin-left:40px;
+	width:94px;
+}
+#footer address{
+	color:#F9F9F9;
+	font-style:normal;
+	margin-top:70px;
+	text-align:center;
+	width:700px;
+}
+#footer a.logo{
+	background-position:-100px -110px;
+	height:12px;
+	margin-top:70px;
+	margin-left:40px;
+	width:34px;
+}
+#footer a.logo:hover{background-position:-100px -122px;}
+
+/* INDEX */
+#index #footer{
+	background:none;
+}
+#index #footer div.logo{
+	display:none;
+}
+#index #footer address{
+	color:#444;
+	margin-left:134px;
+}
+#index #footer a.logo{
+	background-position:-140px -110px;
+	height:10px;
+	margin-top:72px;
+	width:24px;
+}
+#index #footer a.logo:hover{background-position:-140px -120px;}
+
+/* ********************************************** */
+
+#travel #image-fields div,
+#tour #image-fields div{
+	border-top:5px solid #FFF;
+	padding-top:10px;
+}
+#travel #image-fields div#image-field,
+#tour #image-fields div#image-field{
+	border:none;
+	margin:0;
+}
+
+span.error{
+	color:#900;
+}
+
+
+.table-turn{
+	background:#F4F4F4;
+	border-collapse:collapse;
+	margin-top:30px;
+	text-align:center;
+	width:100%;
+}
+.table-turn .white{
+	background:#FFF;
+}
+.table-turn .head{
+	background:#777;
+	color:#FFF;
+}
+.table-turn .head td{
+	padding:2px;
+}
+.tableList_report{
+	margin:15px 0;
+}
+.table-turn .border{
+	border-right:4px solid #FFF;
+}
+.table-turn td{
+	padding:6px;
+}
+.table-turn .ligth{
+	background:#DFDFDF;
+}
+
+#student_trip #panel{height:50px}
+
+#content {
+    width: 750px;
+    float: left;
+    display: inline;
+    padding-top: 15px;
+}
